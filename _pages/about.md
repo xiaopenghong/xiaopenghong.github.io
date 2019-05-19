@@ -21,7 +21,7 @@ redirect_from:
 
 
 # Recent News
-* May 14, 2019. One paper got accepted by Elsevier Neurocomputing. {: .notice}
+* [May 14, 2019. One paper got accepted by Elsevier Neurocomputing.]{: .notice}
 * May 09, 2019. One paper got accepted by IJCAI, 2019. {: .notice}
 * July 17, 2019. One paper got accepted by ICIP, 2019. {: .notice}
 * April 12, 2019. One paper got accepted by ICMR, 2019. {: .notice}
