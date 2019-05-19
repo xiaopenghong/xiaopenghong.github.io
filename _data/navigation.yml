@@ -5,7 +5,12 @@ main:
 
   - title: "Publications"
     url: /publications/
+    
+    
+  - title: "Research"
+    url: /research/
 
+    
   # - title: "Awards & Honors"
   #   url: /awards/
 
