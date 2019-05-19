@@ -11,7 +11,7 @@ title                    : "Xiaopeng Hong"
 title_separator          : "-"
 name                     : &name "Xiaopeng Hong"
 description              : &description "Associate Prof., School of Electronic and Information Engineering, Xi'an Jiaotong University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiaopenghong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaopenghong/index"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "xiaopeng"
+  github           : "xiaopenghong"
   google_plus      :
   keybase          :
   instagram        : 
@@ -303,4 +303,8 @@ compress_html:
   ignore:
     envs: development
 
+<<<<<<< HEAD
 theme: jekyll-theme-merlot
+=======
+theme: jekyll-theme-minimal
+>>>>>>> a339bc0364b18ae9251286a9b5e80e191d4d294f
