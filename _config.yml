@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaopeng Hong"
-  avatar           : "xiaopeng.jpg"
-  bio              : "Associate Prof., School of Electronic and Information Engineering, Xi'an Jiaotong University"
-  location         : "Xi'an, P. R. China"
+  name             : 
+  avatar           : 
+  bio              : 
+  location         : 
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en"
-  email            : "hongxiaopeng@ieee.org"
+  googlescholar    : 
+  email            : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "xiaopenghong"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
