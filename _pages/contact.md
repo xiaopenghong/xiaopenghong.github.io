@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Affiliation: School of Electronic and Information Engineering, Xi'an Jiaotong University, P. R. China. <br>
-​Post Address: TBC. <br>
-Email Address: hongxiaopeng [AT] ieee.org <br>
+<b>Affiliation</b>: School of Electronic and Information Engineering, Xi'an Jiaotong University, P. R. China. <br>
+​<b>Post Address</b>: TBC. <br>
+<b>Email Address</b>: hongxiaopeng [AT] ieee.org <br>
