@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-  avatar           : 
-  bio              : 
-  location         : 
+  name             : "Xiaopeng Hong"
+  avatar           : "xiaopeng.jpg"
+  bio              : "Associate Prof., School of Electronic and Information Engineering, Xi'an Jiaotong University"
+  location         : "Xi'an, P. R. China"
   employer         : 
-  googlescholar    : 
-  email            : 
+  googlescholar    : "https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en"
+  email            : "hongxiaopeng@ieee.org"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : 
+  github           : "xiaopenghong"
   google_plus      :
   keybase          :
   instagram        : 
@@ -100,7 +100,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -303,8 +303,4 @@ compress_html:
   ignore:
     envs: development
 
-<<<<<<< HEAD
 theme: jekyll-theme-merlot
-=======
-theme: jekyll-theme-minimal
->>>>>>> a339bc0364b18ae9251286a9b5e80e191d4d294f
