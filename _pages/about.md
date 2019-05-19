@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://xiaopenghong.github.io/files/xiaopeng.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://hongxiaopeng.com/files/xiaopeng.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)
