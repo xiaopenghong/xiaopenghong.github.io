@@ -27,4 +27,4 @@ redirect_from:
 * July 17, 2019. One paper got accepted by ICIP, 2019. 
 * April 12, 2019. One joint paper got accepted by ICMR, 2019. 
 * March 21, 2019. One paper got accepted by SCIA, 2019. 
-* March 13, 2019. I have jointed Xi'an Jiaotong University as an Associate Professor. 
+* March 13, 2019. I jointed Xi'an Jiaotong University and will serve as an Associate Professor. 
