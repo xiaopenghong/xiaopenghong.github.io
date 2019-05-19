@@ -21,9 +21,9 @@ redirect_from:
 
 
 # Recent News
-* May 14, 2019. One paper got accepted by Elsevier Neurocomputing.
-* May 09, 2019. One paper got accepted by IJCAI, 2019.
-* July 17, 2019. One paper got accepted by ICIP, 2019.
-* April 12, 2019. One paper got accepted by ICMR, 2019.
-* March 21, 2019. One paper got accepted by SCIA, 2019.
-* March 13, 2019. I have jointed Xi'an Jiaotong University as an Associate Professor.
+* May 14, 2019. One paper got accepted by Elsevier Neurocomputing. {: .notice}
+* May 09, 2019. One paper got accepted by IJCAI, 2019. {: .notice}
+* July 17, 2019. One paper got accepted by ICIP, 2019. {: .notice}
+* April 12, 2019. One paper got accepted by ICMR, 2019. {: .notice}
+* March 21, 2019. One paper got accepted by SCIA, 2019. {: .notice}
+* March 13, 2019. I have jointed Xi'an Jiaotong University as an Associate Professor. {: .notice}
