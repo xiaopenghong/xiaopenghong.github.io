@@ -10,7 +10,14 @@ main:
   - title: "Research"
     url: /research/
 
-    
+  - title: "Students"
+    url: /students/
+ 
+
+  - title: "Teaching"
+    url: /teaching/  
+
+  
   # - title: "Awards & Honors"
   #   url: /awards/
 
@@ -23,8 +30,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  #- title: "Blogs"
+  #  url: /year-archive/
     
   - title: "Contact"
     url: /contact/  
