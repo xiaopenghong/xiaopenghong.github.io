@@ -56,7 +56,7 @@ Xiaopeng Hong, Hong Chang, Shiguang Shan, Bineng Zhong, Xilin Chen, and Wen Gao.
 
 ## Conference Papers
 
-<i><span style="color:red"> Still under revision.... </i> <br>
+<i><span style="color:red"> Still under revision....</span> </i> <br>
 
 Y. Shen, R. Ji, X. Hong, F. Zheng, X. Guo, Y. Wu, F. Huang. A Part Power Set Model for Scale-Free Person Retrieval, to appear in IJCAI, 2019. (NEW)
 
