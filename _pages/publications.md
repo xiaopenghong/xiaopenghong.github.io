@@ -1,8 +1,10 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+#[(Google Scholar Profile)](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en)
 
 ## Journal Article
 
@@ -37,31 +39,40 @@ Hanjie Wang, Chai Xiujuan, <b>Xiaopeng Hong</b>, Guoying Zhao, Xilin Chen.
 <i>ACM Transactions on Accessible Computing, vol. 8, no. 4,  <b>ACM TACCESS, 2016.</b>.</i>
 
 <b>[Capturing Correlations of Local Features for Image Representation. ](http://lantaoyu.com/publications/GanGradient)</b><br>
-<b>Xiaopeng Hong</b>, Guoying Zhao, Stefanos Zafeiriou, Maja Pantic, and Matti Pietikäinen.  Neurocomputing, vol. 184, no. 4, pp. 99-106, 2016. (JUFO Ranking: 2) [pdf]
+<b>Xiaopeng Hong</b>, Guoying Zhao, Stefanos Zafeiriou, Maja Pantic, and Matti Pietikäinen.  
+<i>Neurocomputing, vol. 184, no. 4, pp. 99-106, 2016. (JUFO Ranking: 2) [pdf]
 
 <b>[A Unified 3D Face Authentication Framework based on Robust Local Mesh SIFT Feature.](http://lantaoyu.com/publications/GanGradient)</b><br>
-Yue Ming and <b>Xiaopeng Hong</b>.  Neurocomputing, vol. 184, no. 4, pp. 117-130, 2016. (JUFO Ranking: 2)
+Yue Ming and <b>Xiaopeng Hong</b>.  
+<i>Neurocomputing, vol. 184, no. 4, pp. 117-130, 2016. <b>NC, 2016</b></i>. 
 
 <b>[Spontaneous facial micro-expression analysis using Spatiotemporal Completed Local Quantized Patterns.](http://lantaoyu.com/publications/GanGradient)</b>
-Xiaohua Huang, Guoying Zhao, <b>Xiaopeng Hong</b>, Wenming Zheng, Matti Pietikäinen.  Neurocomputing, vol. 175, no.1, pp. 564-578, 2016. (JUFO Ranking: 2)
+Xiaohua Huang, Guoying Zhao, <b>Xiaopeng Hong</b>, Wenming Zheng, Matti Pietikäinen. 
+ <i>Neurocomputing, vol. 175, no.1, pp. 564-578, 2016. <b>NC, 2016</b></i>. 
 
 <b>[Dynamic texture and scene classification by transferring deep image features.](http://lantaoyu.com/publications/GanGradient)</b><br>
-Xianbiao Qi, Chun-Guang Li, Guoying Zhao, <b>Xiaopeng Hong</b>, Matti Pietikäinen.  Neurocomputing, vol. 171, pp. 1230-1241, 2016. (JUFO Ranking: 2) [pdf]
+Xianbiao Qi, Chun-Guang Li, Guoying Zhao, <b>Xiaopeng Hong</b>, Matti Pietikäinen.  
+<i>Neurocomputing, vol. 171, pp. 1230-1241, 2016. <b>NC, 2016</b></i>. 
 
 <b>[A Compact Representation of Visual Speech Data Using Latent Variables.](http://lantaoyu.com/publications/GanGradient)</b><br>
-Ziheng Zhou, <b>Xiaopeng Hong</b>, Guoying Zhao, and Matti Pietikäinen.  IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.36, no.1, 2014.. (JUFO Ranking*: 3, CCF-A) [pdf]
+Ziheng Zhou, <b>Xiaopeng Hong</b>, Guoying Zhao, and Matti Pietikäinen.  
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.36, no.1, 2014. <b>IEEE TPAMI, 2014</b></i>. 
 
 <b>[Combining LBP Difference and Feature Correlation for Texture Description.](http://lantaoyu.com/publications/GanGradient)</b><br>
-<b>Xiaopeng Hong</b>, Guoying Zhao, Matti Pietikäinen, and Xilin Chen.  IEEE Transactions on Image Processing, vol.23, no. 6, 2557–2568, 2014. (JUFO Ranking: 3, CCF-A) [pdf][Matlab Codes]
+<b>Xiaopeng Hong</b>, Guoying Zhao, Matti Pietikäinen, and Xilin Chen.  
+<i>IEEE Transactions on Image Processing, vol.23, no. 6, 2557–2568, 2014. <b>IEEE TIP, 2014</b></i>.  [pdf][Matlab Codes]
 
 <b>[A Review of Recent Advances in Visual Speech Decoding.](http://lantaoyu.com/publications/GanGradient)</b><br>
-Ziheng Zhou, Guoying Zhao, <b>Xiaopeng Hong</b>, and Matti Pietikäinen.  Image and Vision Computing, Vol. 32, No. 9, pp. 590-605, 2014.(JUFO Ranking: 2, Editor’s Choice Article)
+Ziheng Zhou, Guoying Zhao, <b>Xiaopeng Hong</b>, and Matti Pietikäinen.  
+<i>Image and Vision Computing, Vol. 32, No. 9, pp. 590-605, 2014. <b>IVC, 2014</b></i>. (JUFO Ranking: 2, Editor’s Choice Article)
 
 <b>[Structured partial least squares for simultaneous object tracking and segmentation.](http://lantaoyu.com/publications/GanGradient)</b><br>
-Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b>, Yan Chen, Tian Wang, Duansheng Chen, Jiaxin Yu.  Neurocomputing, Vol. 133, pp. 317-327, 2014. (JUFO Ranking: 1)
+Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b>, Yan Chen, Tian Wang, Duansheng Chen, Jiaxin Yu.  
+<i>Neurocomputing, Vol. 133, pp. 317-327, 2014. <b>NC, 2014</b></i> (JUFO Ranking: 1)
 
 <b>[Sigma set based implicit online learning for object tracking.](http://lantaoyu.com/publications/GanGradient)</b><br>
-<b>Xiaopeng Hong</b>, Hong Chang, Shiguang Shan, Bineng Zhong, Xilin Chen, and Wen Gao.  IEEE Signal Processing Letter, vol. 17, no. 9, pp. 807-810, 2010. (JUFO Ranking: 2) [pdf]
+<b>Xiaopeng Hong</b>, Hong Chang, Shiguang Shan, Bineng Zhong, Xilin Chen, and Wen Gao.  
+<i>IEEE Signal Processing Letter, vol. 17, no. 9, pp. 807-810, 2010. <b>IEEE SPL, 2019</b></i>.  [pdf]
 
 ## Conference Papers
 
