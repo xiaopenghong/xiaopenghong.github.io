@@ -8,9 +8,9 @@ author_profile: true
 
 ## Journal Article
 
-<b> A Spatial-aware Joint Optic Disc and Cup Segmentation Method. </b> <br> 
+<b> [A Spatial-aware Joint Optic Disc and Cup Segmentation Method.](https://www.sciencedirect.com/science/article/pii/S0925231219307222) </b> <br> 
 Qing Liu; <b>Xiaopeng Hong</b>; Shuo Li; Zailiang Chen; Guoying Zhao; Beiji Zou.
-<i>To appear in Neurocomputing</i>. <b>NC, 2019</b>.
+<i>To appear in Neurocomputing, Available online 22 May 2019</i>. <b>NC, 2019</b>.
 
 <b>[Saliency integration: An arbitrator model.](https://ieeexplore.ieee.org/abstract/document/8411135/)</b> <br>
 Xu, Y.\*, <b>Hong, X.</b>\*, Porikli, F., Liu, X., Chen, J. and Zhao, G..
