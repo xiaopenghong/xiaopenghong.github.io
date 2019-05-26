@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-#[(Google Scholar Profile)](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en)
+[(Google Scholar Profile)](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en)
 
 ## Journal Article
 
 <b> [A Spatial-aware Joint Optic Disc and Cup Segmentation Method.](https://www.sciencedirect.com/science/article/pii/S0925231219307222) </b> <br> 
 Qing Liu; <b>Xiaopeng Hong</b>; Shuo Li; Zailiang Chen; Guoying Zhao; Beiji Zou.
-<i>To appear in Neurocomputing, Available online 22 May 2019</i>. <b>NC, 2019</b>.
+<i>Accepted, Neurocomputing, Available online 22 May 2019</i>. <b>NC, 2019</b>.
 
 <b>[Saliency integration: An arbitrator model.](https://ieeexplore.ieee.org/abstract/document/8411135/)</b> <br>
 Xu, Y.\*, <b>Hong, X.</b>\*, Porikli, F., Liu, X., Chen, J. and Zhao, G..
@@ -18,59 +18,59 @@ Xu, Y.\*, <b>Hong, X.</b>\*, Porikli, F., Liu, X., Chen, J. and Zhao, G..
 
 <b>[Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods.](https://ieeexplore.ieee.org/abstract/document/7851001)</b><br>
 Xiaobai Li (student), <b>Xiaopeng Hong</b>, Antti Moilanen, Xiaohua Huang, Thomas Pfister, Guoying Zhao, Matti Pietikäinen.
-<i>IEEE Transactions on Affective Computing, Vol. 9, No. 4, pp. 563-577, </i> <b>IEEE TAFFC, 2018</b>. <b> <span style="color:red">Reports from [MIT Technology Review](https://www.technologyreview.com/s/543501/machine-vision-algorithm-learns-to-recognize-hidden-facial-expressions/) and [DailyMail](https://www.dailymail.co.uk/sciencetech/article-3320222/Algorithm-uses-machine-vision-spot-recognise-hidden-emotions.html)</span> </b>
+<i>IEEE Transactions on Affective Computing, Vol. 9, No. 4, pp. 563-577, </i> <b>IEEE TAFFC, 2018</b>. <span style="color:red">Reports from [MIT Technology Review](https://www.technologyreview.com/s/543501/machine-vision-algorithm-learns-to-recognize-hidden-facial-expressions/) and [DailyMail](https://www.dailymail.co.uk/sciencetech/article-3320222/Algorithm-uses-machine-vision-spot-recognise-hidden-emotions.html)</span> 
 
 <b>[Saliency Detection via Bi-directional Propagation.](https://www.sciencedirect.com/science/article/pii/S1047320318300476)</b> <br>
 Yingyue Xu (student), <b>Xiaopeng Hong</b>, Xin Liu, Guoying Zhao. <i>Journal of Visual Communication and Image Representation, Vol 53, No. 5,  Pages 113-121, </i>. <b>JVCI, 2018</b>.
 
-<b>[Sparse projections matrix binary descriptors for face recognition.](http://lantaoyu.com/publications/VBDA)</b> <br>
+<b>[Sparse projections matrix binary descriptors for face recognition.](http://hongxiaopeng.com/publications/VBDA)</b> <br>
 Chunxiao Fan, Lei Tian, Yue Ming, <b>Xiaopeng Hong</b>, Guoying Zhao, Matti Pietikäinen. <i>Neurocomputing. No. 2, <b>Elservier NC, 2018.</b></i>
 
-<b>[Hierarchical Contour Closure based Holistic Salient Object Detection.](http://lantaoyu.com/publications/GanGradient)</b> <br>
+<b>[Hierarchical Contour Closure based Holistic Salient Object Detection.](http://hongxiaopeng.com/publications/GanGradient)</b> <br>
 Qing Liu (student), <b>Xiaopeng Hong</b>, Beiji Zou, Jie Chen, Zailiang Chen, and Guoying Zhao.
 <i>IEEE Transactions on Image Processing, vol. 26, no. 9, pp. 4537 – 4552, 2017. <b>IEEE TIP, 2017.</b></i>
 
-<b>[Background Subtraction using Spatio-Temporal Group Sparsity Recovery.](http://lantaoyu.com/publications/SeqGAN)</b> <br>
+<b>[Background Subtraction using Spatio-Temporal Group Sparsity Recovery.](http://hongxiaopeng.com/publications/SeqGAN)</b> <br>
 Xin Liu (student), Jiawen Yao (student), <b>Xiaopeng Hong</b>, Xiaohua Huang, Ziheng Zhou, Chun Qi, and Guoying Zhao.
 <i>IEEE Transactions on Circuits and Systems for Video Technology, <b> IEEE TCSVT No. 4, 2017.</b></i>. 
 
-<b>[Isolated Sign Language Recognition with Grassmann Covariance Matrices.](http://lantaoyu.com/publications/DADM)</b><br>
+<b>[Isolated Sign Language Recognition with Grassmann Covariance Matrices.](http://hongxiaopeng.com/publications/DADM)</b><br>
 Hanjie Wang, Chai Xiujuan, <b>Xiaopeng Hong</b>, Guoying Zhao, Xilin Chen. 
 <i>ACM Transactions on Accessible Computing, vol. 8, no. 4,  <b>ACM TACCESS, 2016.</b>.</i>
 
-<b>[Capturing Correlations of Local Features for Image Representation. ](http://lantaoyu.com/publications/GanGradient)</b><br>
+<b>[Capturing Correlations of Local Features for Image Representation. ](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 <b>Xiaopeng Hong</b>, Guoying Zhao, Stefanos Zafeiriou, Maja Pantic, and Matti Pietikäinen.  
 <i>Neurocomputing, vol. 184, no. 4, pp. 99-106, 2016. (JUFO Ranking: 2) [pdf]
 
-<b>[A Unified 3D Face Authentication Framework based on Robust Local Mesh SIFT Feature.](http://lantaoyu.com/publications/GanGradient)</b><br>
+<b>[A Unified 3D Face Authentication Framework based on Robust Local Mesh SIFT Feature.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 Yue Ming and <b>Xiaopeng Hong</b>.  
 <i>Neurocomputing, vol. 184, no. 4, pp. 117-130, 2016. <b>NC, 2016</b></i>. 
 
-<b>[Spontaneous facial micro-expression analysis using Spatiotemporal Completed Local Quantized Patterns.](http://lantaoyu.com/publications/GanGradient)</b>
+<b>[Spontaneous facial micro-expression analysis using Spatiotemporal Completed Local Quantized Patterns.](http://hongxiaopeng.com/publications/GanGradient)</b>
 Xiaohua Huang, Guoying Zhao, <b>Xiaopeng Hong</b>, Wenming Zheng, Matti Pietikäinen. 
  <i>Neurocomputing, vol. 175, no.1, pp. 564-578, 2016. <b>NC, 2016</b></i>. 
 
-<b>[Dynamic texture and scene classification by transferring deep image features.](http://lantaoyu.com/publications/GanGradient)</b><br>
+<b>[Dynamic texture and scene classification by transferring deep image features.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 Xianbiao Qi, Chun-Guang Li, Guoying Zhao, <b>Xiaopeng Hong</b>, Matti Pietikäinen.  
 <i>Neurocomputing, vol. 171, pp. 1230-1241, 2016. <b>NC, 2016</b></i>. 
 
-<b>[A Compact Representation of Visual Speech Data Using Latent Variables.](http://lantaoyu.com/publications/GanGradient)</b><br>
+<b>[A Compact Representation of Visual Speech Data Using Latent Variables.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 Ziheng Zhou, <b>Xiaopeng Hong</b>, Guoying Zhao, and Matti Pietikäinen.  
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.36, no.1, 2014. <b>IEEE TPAMI, 2014</b></i>. 
 
-<b>[Combining LBP Difference and Feature Correlation for Texture Description.](http://lantaoyu.com/publications/GanGradient)</b><br>
+<b>[Combining LBP Difference and Feature Correlation for Texture Description.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 <b>Xiaopeng Hong</b>, Guoying Zhao, Matti Pietikäinen, and Xilin Chen.  
 <i>IEEE Transactions on Image Processing, vol.23, no. 6, 2557–2568, 2014. <b>IEEE TIP, 2014</b></i>.  [pdf][Matlab Codes]
 
-<b>[A Review of Recent Advances in Visual Speech Decoding.](http://lantaoyu.com/publications/GanGradient)</b><br>
+<b>[A Review of Recent Advances in Visual Speech Decoding.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 Ziheng Zhou, Guoying Zhao, <b>Xiaopeng Hong</b>, and Matti Pietikäinen.  
 <i>Image and Vision Computing, Vol. 32, No. 9, pp. 590-605, 2014. <b>IVC, 2014</b></i>. (JUFO Ranking: 2, Editor’s Choice Article)
 
-<b>[Structured partial least squares for simultaneous object tracking and segmentation.](http://lantaoyu.com/publications/GanGradient)</b><br>
+<b>[Structured partial least squares for simultaneous object tracking and segmentation.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b>, Yan Chen, Tian Wang, Duansheng Chen, Jiaxin Yu.  
 <i>Neurocomputing, Vol. 133, pp. 317-327, 2014. <b>NC, 2014</b></i> (JUFO Ranking: 1)
 
-<b>[Sigma set based implicit online learning for object tracking.](http://lantaoyu.com/publications/GanGradient)</b><br>
+<b>[Sigma set based implicit online learning for object tracking.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 <b>Xiaopeng Hong</b>, Hong Chang, Shiguang Shan, Bineng Zhong, Xilin Chen, and Wen Gao.  
 <i>IEEE Signal Processing Letter, vol. 17, no. 9, pp. 807-810, 2010. <b>IEEE SPL, 2019</b></i>.  [pdf]
 
