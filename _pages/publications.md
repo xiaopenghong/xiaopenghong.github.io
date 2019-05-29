@@ -10,7 +10,7 @@ author_profile: true
 
 <b> [A Spatial-aware Joint Optic Disc and Cup Segmentation Method.](https://www.sciencedirect.com/science/article/pii/S0925231219307222) </b> <br> 
 Qing Liu; <b>Xiaopeng Hong</b>; Shuo Li; Zailiang Chen; Guoying Zhao; Beiji Zou.
-<i>Accepted, Neurocomputing, Available online 22 May 2019</i>. <b>NC, 2019</b>.
+<i>Accepted, Neurocomputing, Available online 22 May 2019</i>. <b>NC, 2019</b>. <span style="color:red"> (NEW) </span>
 
 <b>[Saliency integration: An arbitrator model.](https://ieeexplore.ieee.org/abstract/document/8411135/)</b> <br>
 Xu, Y.\*, <b>Hong, X.</b>\*, Porikli, F., Liu, X., Chen, J. and Zhao, G..
@@ -76,14 +76,17 @@ Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b
 
 ## Conference Papers
 
+
+
+Y. Xu, <b>X. Hong</b>, and G. Zhao. Salient Object Detection with CNNs and Multi-scale CRFs. <i>Proc. In Scandinavian Conference on Image Analysis, pp. 233-245. Springer, Cham, 2019. Springer SCIA, 2019.</i> <span style="color:red"> (NEW) </span>
+
+Y. Shen, R. Ji, <b>X. Hong</b>, F. Zheng, X. Guo, Y. Wu, F. Huang. A Part Power Set Model for Scale-Free Person Retrieval, <i>to appear in IJCAI, 2019.</i> <span style="color:red"> (NEW) </span>
+
+Zong Y., Zheng W., <b>Hong X.</b>, Tang C., Cui Z., Zhao G., Cross-Database Micro-Expression Recognition: A Benchmark. <i>To appear in ICMR, 2019.</i> <span style="color:red"> (NEW) </span>
+
+W. Peng, <b>X. Hong</b>, Y. Xu, and G. Zhao. <i>A Boost in Revealing Subtle Facial Expressions: A Consolidated Eulerian Framework. Proc. IEEE FG, 2019. </i> <span style="color:red"> (NEW) </span>
+
 <i><span style="color:red"> Still under revision....</span> </i> <br>
-
-Y. Shen, R. Ji, X. Hong, F. Zheng, X. Guo, Y. Wu, F. Huang. A Part Power Set Model for Scale-Free Person Retrieval, to appear in IJCAI, 2019. (NEW)
-
-Zong Y, Zheng W, Hong X, Tang C, Cui Z, Zhao G. Cross-Database Micro-Expression Recognition: A Benchmark. To appear in ICMR, 2019, invited paper. (NEW)
-
-Peng, W., Hong, X., Xu, Y. and Zhao, G.. A Boost in Revealing Subtle Facial Expressions: A Consolidated Eulerian Framework. Proc. IEEE FG, 2019. (NEW)
-
 Z. Xia, H. Liang, X. Feng, and X. Hong. Cross-database Micro-expression Recognition with Deep Convolutional Networks. To appear in ACM ICBEA 2019.
 
 Khanh Tran, Quang-Nhat Vo, Xiaopeng Hong, and Guoying Zhao. Dense prediction for micro-expression spotting based on deep sequence model, Proc. IS&T International Symposium on Electronic Imaging 2019, Imaging and Multimedia Analytics in a Web and Mobile World 2019. (invited paper)
