@@ -22,10 +22,10 @@ redirect_from:
 
 
 # Recent News
-* May 30, 2019. One joint paper got accepted by IEEE TMM.
-* May 14, 2019. One joint paper got accepted by Elsevier Neurocomputing.
-* May 09, 2019. One joint paper got accepted by IJCAI, 2019. 
+* May 30, 2019. One paper got accepted by IEEE TMM.
+* May 14, 2019. One paper got accepted by Elsevier Neurocomputing.
+* May 09, 2019. One paper got accepted by IJCAI, 2019. 
 * July 17, 2019. One paper got accepted by ICIP, 2019. 
-* April 12, 2019. One joint paper got accepted by ICMR, 2019. 
+* April 12, 2019. One paper got accepted by ICMR, 2019. 
 * March 21, 2019. One paper got accepted by SCIA, 2019. 
 * March 13, 2019. I jointed Xi'an Jiaotong University and will serve as an Associate Professor. 
