@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journal Article
 
+<b> [Spatiotemporal Recurrent Convolutional Networks for Recognizing Spontaneous Micro-expressions.](https://www.hongxiaopeng/publications) </b> <br> 
+Z. Xia; <b>X. Hong</b>; X. Gao; X. Feng; G. Zhao.
+<i>Accepted, IEEE Transactions on Multimedia,</i> <b>IEEE TMM, 2019</b>. <span style="color:red"> (NEW) </span>
+
 <b> [A Spatial-aware Joint Optic Disc and Cup Segmentation Method.](https://www.sciencedirect.com/science/article/pii/S0925231219307222) </b> <br> 
 Qing Liu; <b>Xiaopeng Hong</b>; Shuo Li; Zailiang Chen; Guoying Zhao; Beiji Zou.
 <i>Accepted, Neurocomputing, Available online 22 May 2019</i>. <b>NC, 2019</b>. <span style="color:red"> (NEW) </span>
@@ -21,10 +25,11 @@ Xiaobai Li (student), <b>Xiaopeng Hong</b>, Antti Moilanen, Xiaohua Huang, Thoma
 <i>IEEE Transactions on Affective Computing, Vol. 9, No. 4, pp. 563-577, </i> <b>IEEE TAFFC, 2018</b>. <span style="color:red">Reports from [MIT Technology Review](https://www.technologyreview.com/s/543501/machine-vision-algorithm-learns-to-recognize-hidden-facial-expressions/) and [DailyMail](https://www.dailymail.co.uk/sciencetech/article-3320222/Algorithm-uses-machine-vision-spot-recognise-hidden-emotions.html)</span> 
 
 <b>[Saliency Detection via Bi-directional Propagation.](https://www.sciencedirect.com/science/article/pii/S1047320318300476)</b> <br>
-Yingyue Xu (student), <b>Xiaopeng Hong</b>, Xin Liu, Guoying Zhao. <i>Journal of Visual Communication and Image Representation, Vol 53, No. 5,  Pages 113-121, </i>. <b>JVCI, 2018</b>.
+Yingyue Xu (student), <b>Xiaopeng Hong</b>, Xin Liu, Guoying Zhao. 
+<i>Journal of Visual Communication and Image Representation, Vol 53, No. 5,  Pages 113-121, </i>. <b>JVCI, 2018</b>.
 
 <b>[Sparse projections matrix binary descriptors for face recognition.](http://hongxiaopeng.com/publications/VBDA)</b> <br>
-Chunxiao Fan, Lei Tian, Yue Ming, <b>Xiaopeng Hong</b>, Guoying Zhao, Matti Pietikäinen. <i>Neurocomputing. No. 2, <b>Elservier NC, 2018.</b></i>
+Chunxiao Fan, Lei Tian, Yue Ming, <b>Xiaopeng Hong</b>, Guoying Zhao, Matti Pietikäinen. <i>Neurocomputing. No. 2, </i><b>Elservier NC, 2018.</b>
 
 <b>[Hierarchical Contour Closure based Holistic Salient Object Detection.](http://hongxiaopeng.com/publications/GanGradient)</b> <br>
 Qing Liu (student), <b>Xiaopeng Hong</b>, Beiji Zou, Jie Chen, Zailiang Chen, and Guoying Zhao.
