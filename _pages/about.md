@@ -19,7 +19,7 @@ redirect_from:
 {: .notice--info} 
 * My current research interests include the deep learning technology and other machine learning methods, especially their applications in multi-modal learning, affective computing, intelligent medical examination, and human-computer interaction, and so forth. Global media have reported my research including MIT Technology Review and Daily Mail.
 {: .notice--success}
-* I am a member of IEEE and CCF. I have been invited to review papers for a group of journals, such as IEEE TPAMI, Springer IJCV, IEEE TIP, TNNLS, Cybernetics, CSVT, and TMM, and conferences like CVPR, ICCV, ECCV, and ACM MM, etc.
+* I am a member of IEEE and CCF. I have been invited to review papers for a group of journals, such as IEEE TPAMI, Springer IJCV, IEEE TIP, TNNLS, T Cybernetics, TCSVT, TAFFC, and TMM, and conferences like CVPR, ICCV, ECCV, and ACM MM, etc.
 {: .notice--info} 
 
 # Recent News
