@@ -8,6 +8,11 @@ author_profile: true
 
 ## Journal Article
 
+<b> [ Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b> <br> 
+X. Hong; <b>W. Peng</b>; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
+<i>Accepted, ACM Transactions on Multimedia Computing Communications and Applications,</i> <b>ACM TOMM, 2019</b>. <span style="color:red"> (NEW) </span>
+
+ 
 <b> [Spatiotemporal Recurrent Convolutional Networks for Recognizing Spontaneous Micro-expressions.](https://www.hongxiaopeng/publications) </b> <br> 
 Z. Xia; <b>X. Hong</b>; X. Gao; X. Feng; G. Zhao.
 <i>Accepted, IEEE Transactions on Multimedia,</i> <b>IEEE TMM, 2019</b>. <span style="color:red"> (NEW) </span>

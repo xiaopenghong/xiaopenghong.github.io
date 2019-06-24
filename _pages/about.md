@@ -23,6 +23,7 @@ redirect_from:
 {: .notice--info} 
 
 # Recent News
+* June 25, 2019. One paper got accepted by ACM TOMM.
 * May 30, 2019. One paper got accepted by IEEE TMM.
 * May 14, 2019. One paper got accepted by Elsevier Neurocomputing.
 * May 09, 2019. One paper got accepted by IJCAI, 2019. 
