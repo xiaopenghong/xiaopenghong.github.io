@@ -9,7 +9,7 @@ author_profile: true
 ## Journal Article
 
 <b> [ Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b> <br> 
-X. Hong; <b>W. Peng</b>; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
+<b>X. Hong</b>; W. Peng; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
 <i>Accepted, ACM Transactions on Multimedia Computing Communications and Applications,</i> <b>ACM TOMM, 2019</b>. <span style="color:red"> (NEW) </span>
 
  
