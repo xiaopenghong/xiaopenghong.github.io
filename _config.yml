@@ -81,7 +81,7 @@ author:
   avatar           : "xiaopeng.jpg"
   bio              : "Ph.D., <br> Associate Prof., EIE, Xi'an Jiaotong University <br> Docent, CMVS, University of Oulu"
   location         : "Xi'an, P. R. China"
-  employer   : "http://gr.xjtu.edu.cn/web/hongxiaopeng"
+  employer         : [Office Webpage]("http://gr.xjtu.edu.cn/web/hongxiaopeng")
   googlescholar    : "https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en"
   email            : "hongxiaopeng@ieee.org"
   uri              : 
