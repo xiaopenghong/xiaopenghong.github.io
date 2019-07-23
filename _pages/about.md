@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am now an <i>Distinguished Research Fellow</i> at <i>Xi’an Jiaotong University</i>. 
+* I am now an <i> DRF </i> at <i>Xi’an Jiaotong University</i>. 
 {: .notice--primary}
 * I received my Ph.D. degree in computer application and technology from <i>Harbin Institute of Technology, Harbin, P. R. China</i>, in 2010.
 {: .notice--info} 
