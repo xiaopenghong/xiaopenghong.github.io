@@ -90,7 +90,7 @@ Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b
 
 Y. Xu, <b>X. Hong</b>, and G. Zhao. Salient Object Detection with CNNs and Multi-scale CRFs. <i>Proc. In Scandinavian Conference on Image Analysis, pp. 233-245. Springer, Cham, 2019. Springer SCIA, 2019.</i> <span style="color:red"> (NEW) </span>
 
-Y. Shen, R. Ji, <b>X. Hong</b>, F. Zheng, X. Guo, Y. Wu, F. Huang. A Part Power Set Model for Scale-Free Person Retrieval, <i>to appear in IJCAI, 2019.</i> <span style="color:red"> (NEW) </span>
+Y. Shen, R. Ji, <b>X. Hong</b>, F. Zheng, X. Guo, Y. Wu, F. Huang. [A Part Power Set Model for Scale-Free Person Retrieval](https://github.com/shenyunhang/PPS),<i>Proc. of 2019 International Joint Conference on Artificial Intelligence (IJCAI 2019).</i> <span style="color:red"> (NEW) </span>
 
 Zong Y., Zheng W., <b>Hong X.</b>, Tang C., Cui Z., Zhao G., Cross-Database Micro-Expression Recognition: A Benchmark. <i>To appear in ICMR, 2019.</i> <span style="color:red"> (NEW) </span>
 
