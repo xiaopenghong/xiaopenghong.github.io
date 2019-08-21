@@ -86,15 +86,15 @@ Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b
 
 ## Conference Papers
 
-Z. Ma*, X. Wei*, <b>X. Hong</b>, Y. Gong. Bayesian Loss for Crowd Count Estimation with Point Supervision. <i>To appear in, 2019.</i> <span style="color:red"> (NEW) </span>
+Z. Ma*, X. Wei*, <b>X. Hong</b>, Y. Gong. Bayesian Loss for Crowd Count Estimation with Point Supervision. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
 
 
-J. Li, R. Ji, H. Liu, <b>X. Hong</b>, Y. Gao, Q. Tian. Universal Perturbation Attacking against Image Retrieval. <i>To appear in, 2019.</i> <span style="color:red"> (NEW) </span>
+J. Li, R. Ji, H. Liu, <b>X. Hong</b>, Y. Gao, Q. Tian. Universal Perturbation Attacking against Image Retrieval. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
 
-Z. Yu*, W. Peng*, X. Li, <b>X. Hong</b>, G. Zhao. Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement. <i>To appear in, 2019.</i> <span style="color:red"> (NEW) </span>
+Z. Yu*, W. Peng*, X. Li, <b>X. Hong</b>, G. Zhao. Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
 
 Y. Xu, D. Xu, <b>X. Hong</b>, W. Ouyang, R. Ji, M. Xu, and G. Zhao. Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection
-. <i>To appear in, 2019.</i> <span style="color:red"> (NEW) </span>
+. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
 
 Y. Xu, <b>X. Hong</b>, and G. Zhao. Salient Object Detection with CNNs and Multi-scale CRFs. <i>Proc. In Scandinavian Conference on Image Analysis, pp. 233-245. Springer, Cham, 2019. Springer SCIA, 2019.</i>
 
