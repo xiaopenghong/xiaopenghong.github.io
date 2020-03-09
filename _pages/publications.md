@@ -100,22 +100,18 @@ Y. Shen, R. Ji, Z. Chen, <b>X. Hong</b>, F. Zheng, J. Liu, M. Xu, Q. Tian. Noise
 
 X. Tao, <b>X. Hong</b>, X. Chang, Y. Gong. Bi-objective Continual Learning: Learning 'New' while Consolidating 'Known'. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
 
-
 D. Li, X. Wei, <b>X. Hong</b>, Y. Gong. Infrared-Visible Cross-Modal Person Re-Identification with an X Modality. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
-
 
 W. Peng, <b>X. Hong</b>, H. Chen, G. Zhao. Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
 
-
 Z. Ma*, X. Wei*, <b>X. Hong</b>, Y. Gong. Bayesian Loss for Crowd Count Estimation with Point Supervision. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> 
-
 
 J. Li, R. Ji, H. Liu, <b>X. Hong</b>, Y. Gao, Q. Tian. Universal Perturbation Attacking against Image Retrieval. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i>
 
-Z. Yu*, W. Peng*, X. Li, <b>X. Hong</b>, G. Zhao. Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
+Z. Yu*, W. Peng*, X. Li, <b>X. Hong</b>, G. Zhao. Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i>
 
 Y. Xu, D. Xu, <b>X. Hong</b>, W. Ouyang, R. Ji, M. Xu, and G. Zhao. Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection
-. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
+. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i>
 
 Y. Xu, <b>X. Hong</b>, and G. Zhao. Salient Object Detection with CNNs and Multi-scale CRFs. <i>Proc. In Scandinavian Conference on Image Analysis, pp. 233-245. Springer, Cham, 2019. Springer SCIA, 2019.</i>
 
