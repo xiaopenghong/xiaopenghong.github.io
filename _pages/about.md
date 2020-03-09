@@ -29,12 +29,3 @@ redirect_from:
 * Feburary, 2019. Two papers got accepted by IEEE/CVF CVPR 2020.
 * Feburary, 2019. One paper got accepted by IEEE TIP.
 * November, 2019. Three papers got accepted by AAAI, 2020.
-* July 23, 2019. Four papers got accepted by IEEE ICCV, 2019.
-* June 25, 2019. One paper got accepted by ACM TOMM.
-* May 30, 2019. One paper got accepted by IEEE TMM.
-* May 14, 2019. One paper got accepted by Elsevier Neurocomputing.
-* May 09, 2019. One paper got accepted by IJCAI, 2019. 
-* July 17, 2019. One paper got accepted by ICIP, 2019. 
-* April 12, 2019. One paper got accepted by ICMR, 2019. 
-* March 21, 2019. One paper got accepted by SCIA, 2019. 
-* March 13, 2019. I jointed Xi'an Jiaotong University and will serve as an Distinguished Research Fellow. 
