@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Article
 
-<b> [Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment.] </b> <br> 
+<b> Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment. </b> <br> 
 Y. He#, X. Wei#, <b>X. Hong</b>, W. Shi, Y. Gong. 
 IEEE IEEE Transactions on Image Processing, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
 
@@ -16,7 +16,7 @@ IEEE IEEE Transactions on Image Processing, 2020. <b>IEEE TIP, 2020</b>. <span s
 X. Liu, H. Shi, <b>X. Hong</b>, H.Chen, D. Tao, G. Zhao. 
 IEEE Transactions on Image Processing, vol. 29, no. 2, pp. 4583-4597, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
 
-<b> [ Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b> <br> 
+<b> [Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b> <br> 
 <b>X. Hong</b>; W. Peng; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
 <i>ACM Transactions on Multimedia Computing Communications and Applications, Vol. 15, No. 3s, pp. 1-24, </i> <b>ACM TOMM, 2019</b>.
 
