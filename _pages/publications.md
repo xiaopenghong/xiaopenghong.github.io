@@ -8,22 +8,22 @@ author_profile: true
 
 ## Journal Article
 
-<b> Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment. </b> <br> 
+<b> [Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment.] </b> <br> 
 Y. He#, X. Wei#, <b>X. Hong</b>, W. Shi, Y. Gong. 
 IEEE IEEE Transactions on Image Processing, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
 
-<b> 3D Skeletal Gesture Recognition via Hidden States Exploration. </b> <br> 
+<b> [3D Skeletal Gesture Recognition via Hidden States Exploration.] </b> <br> 
 X. Liu, H. Shi, <b>X. Hong</b>, H.Chen, D. Tao, G. Zhao. 
 IEEE Transactions on Image Processing, vol. 29, no. 2, pp. 4583-4597, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
 
 <b> [ Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b> <br> 
 <b>X. Hong</b>; W. Peng; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
-<i>Accepted, ACM Transactions on Multimedia Computing Communications and Applications,</i> <b>ACM TOMM, 2019</b>.
+<i>ACM Transactions on Multimedia Computing Communications and Applications, Vol. 15, No. 3s, pp. 1-24, </i> <b>ACM TOMM, 2019</b>.
 
  
 <b> [Spatiotemporal Recurrent Convolutional Networks for Recognizing Spontaneous Micro-expressions.](https://www.hongxiaopeng/publications) </b> <br> 
 Z. Xia; <b>X. Hong</b>; X. Gao; X. Feng; G. Zhao.
-<i>Accepted, IEEE Transactions on Multimedia,</i> <b>IEEE TMM, 2019</b>.
+<i>IEEE Transactions on Multimedia, Vol. 22, No. 3, pp. 626-640, </i> <b>IEEE TMM, 2019</b>.
 
 <b> [A Spatial-aware Joint Optic Disc and Cup Segmentation Method.](https://www.sciencedirect.com/science/article/pii/S0925231219307222) </b> <br> 
 Qing Liu; <b>Xiaopeng Hong</b>; Shuo Li; Zailiang Chen; Guoying Zhao; Beiji Zou.
