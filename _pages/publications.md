@@ -8,18 +8,26 @@ author_profile: true
 
 ## Journal Article
 
+<b> Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment. </b> <br> 
+Y. He#, X. Wei#, <b>X. Hong</b>, W. Shi, Y. Gong. 
+IEEE IEEE Transactions on Image Processing, 2020. <b>IEEE TIP, 2019</b>. <span style="color:red"> (NEW) </span>
+
+<b> 3D Skeletal Gesture Recognition via Hidden States Exploration. </b> <br> 
+X. Liu, H. Shi, <b>X. Hong</b>, H.Chen, D. Tao, G. Zhao. 
+IEEE Transactions on Image Processing, vol. 29, no. 2, pp. 4583-4597, 2020. <b>IEEE TIP, 2019</b>. <span style="color:red"> (NEW) </span>
+
 <b> [ Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b> <br> 
 <b>X. Hong</b>; W. Peng; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
-<i>Accepted, ACM Transactions on Multimedia Computing Communications and Applications,</i> <b>ACM TOMM, 2019</b>. <span style="color:red"> (NEW) </span>
+<i>Accepted, ACM Transactions on Multimedia Computing Communications and Applications,</i> <b>ACM TOMM, 2019</b>.
 
  
 <b> [Spatiotemporal Recurrent Convolutional Networks for Recognizing Spontaneous Micro-expressions.](https://www.hongxiaopeng/publications) </b> <br> 
 Z. Xia; <b>X. Hong</b>; X. Gao; X. Feng; G. Zhao.
-<i>Accepted, IEEE Transactions on Multimedia,</i> <b>IEEE TMM, 2019</b>. <span style="color:red"> (NEW) </span>
+<i>Accepted, IEEE Transactions on Multimedia,</i> <b>IEEE TMM, 2019</b>.
 
 <b> [A Spatial-aware Joint Optic Disc and Cup Segmentation Method.](https://www.sciencedirect.com/science/article/pii/S0925231219307222) </b> <br> 
 Qing Liu; <b>Xiaopeng Hong</b>; Shuo Li; Zailiang Chen; Guoying Zhao; Beiji Zou.
-<i>Accepted, Neurocomputing, Available online 22 May 2019</i>. <b>NC, 2019</b>. <span style="color:red"> (NEW) </span>
+<i>Accepted, Neurocomputing, Available online 22 May 2019</i>. <b>NC, 2019</b>.
 
 <b>[Saliency integration: An arbitrator model.](https://ieeexplore.ieee.org/abstract/document/8411135/)</b> <br>
 Xu, Y.\*, <b>Hong, X.</b>\*, Porikli, F., Liu, X., Chen, J. and Zhao, G..
@@ -86,10 +94,21 @@ Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b
 
 ## Conference Papers
 
-Z. Ma*, X. Wei*, <b>X. Hong</b>, Y. Gong. Bayesian Loss for Crowd Count Estimation with Point Supervision. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
 
 
-J. Li, R. Ji, H. Liu, <b>X. Hong</b>, Y. Gao, Q. Tian. Universal Perturbation Attacking against Image Retrieval. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
+X. Tao, <b>X. Hong</b>, X. Chang, Y. Gong. Bi-objective Continual Learning: Learning `New' while Consolidating `Known'. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
+
+
+D. Li, X. Wei, <b>X. Hong</b>, Y. Gong. Infrared-Visible Cross-Modal Person Re-Identification with an X Modality. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
+
+
+W. Peng, <b>X. Hong</b>, H. Chen, G. Zhao. Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
+
+
+Z. Ma*, X. Wei*, <b>X. Hong</b>, Y. Gong. Bayesian Loss for Crowd Count Estimation with Point Supervision. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> 
+
+
+J. Li, R. Ji, H. Liu, <b>X. Hong</b>, Y. Gao, Q. Tian. Universal Perturbation Attacking against Image Retrieval. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i>
 
 Z. Yu*, W. Peng*, X. Li, <b>X. Hong</b>, G. Zhao. Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> <span style="color:red"> (NEW) </span>
 
