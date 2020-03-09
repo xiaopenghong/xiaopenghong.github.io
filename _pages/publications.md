@@ -12,7 +12,7 @@ author_profile: true
 Y. He#, X. Wei#, <b>X. Hong</b>, W. Shi, Y. Gong. 
 IEEE IEEE Transactions on Image Processing, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
 
-<b> [3D Skeletal Gesture Recognition via Hidden States Exploration.] </b> <br> 
+<b> [3D Skeletal Gesture Recognition via Hidden States Exploration.](https://ieeexplore.ieee.org/abstract/document/9007047/) </b> <br> 
 X. Liu, H. Shi, <b>X. Hong</b>, H.Chen, D. Tao, G. Zhao. 
 IEEE Transactions on Image Processing, vol. 29, no. 2, pp. 4583-4597, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
 
