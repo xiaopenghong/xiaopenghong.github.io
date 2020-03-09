@@ -117,7 +117,7 @@ Y. Xu, <b>X. Hong</b>, and G. Zhao. Salient Object Detection with CNNs and Multi
 
 Y. Shen, R. Ji, <b>X. Hong</b>, F. Zheng, X. Guo, Y. Wu, F. Huang. [A Part Power Set Model for Scale-Free Person Retrieval](https://github.com/shenyunhang/PPS),<i>Proc. of 2019 International Joint Conference on Artificial Intelligence (IJCAI 2019).</i>
 
-Zong Y., Zheng W., <b>Hong X.</b>, Tang C., Cui Z., Zhao G., Cross-Database Micro-Expression Recognition: A Benchmark. <i>To appear in ICMR, 2019.</i> <span style="color:red"> (NEW) </span>
+Zong Y., Zheng W., <b>Hong X.</b>, Tang C., Cui Z., Zhao G., Cross-Database Micro-Expression Recognition: A Benchmark. <i>ICMR, 2019.</i>
 
 W. Peng, <b>X. Hong</b>, Y. Xu, and G. Zhao. <i>A Boost in Revealing Subtle Facial Expressions: A Consolidated Eulerian Framework. Proc. IEEE FG, 2019. </i>
 
