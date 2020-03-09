@@ -10,11 +10,11 @@ author_profile: true
 
 <b> Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment. </b> <br> 
 Y. He#, X. Wei#, <b>X. Hong</b>, W. Shi, Y. Gong. 
-IEEE IEEE Transactions on Image Processing, 2020. <b>IEEE TIP, 2019</b>. <span style="color:red"> (NEW) </span>
+IEEE IEEE Transactions on Image Processing, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
 
 <b> 3D Skeletal Gesture Recognition via Hidden States Exploration. </b> <br> 
 X. Liu, H. Shi, <b>X. Hong</b>, H.Chen, D. Tao, G. Zhao. 
-IEEE Transactions on Image Processing, vol. 29, no. 2, pp. 4583-4597, 2020. <b>IEEE TIP, 2019</b>. <span style="color:red"> (NEW) </span>
+IEEE Transactions on Image Processing, vol. 29, no. 2, pp. 4583-4597, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
 
 <b> [ Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b> <br> 
 <b>X. Hong</b>; W. Peng; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
