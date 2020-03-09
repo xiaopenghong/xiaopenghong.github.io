@@ -94,9 +94,11 @@ Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b
 
 ## Conference Papers
 
+X. Tao, <b>X. Hong</b>, X. Chang, X. Wei, Y. Gong. Few-Shot Class-Incremental Learning. <i> IEEE/CVF CVPR 2020. </i> <span style="color:red"> (NEW) </span>
 
+Y. Shen, R. Ji, Z. Chen, <b>X. Hong</b>, F. Zheng, J. Liu, M. Xu, Q. Tian. Noise-Aware Fully Webly Supervised Object Detection. <i> IEEE/CVF CVPR 2020. </i> <span style="color:red"> (NEW) </span>
 
-X. Tao, <b>X. Hong</b>, X. Chang, Y. Gong. Bi-objective Continual Learning: Learning `New' while Consolidating `Known'. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
+X. Tao, <b>X. Hong</b>, X. Chang, Y. Gong. Bi-objective Continual Learning: Learning 'New' while Consolidating 'Known'. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
 
 
 D. Li, X. Wei, <b>X. Hong</b>, Y. Gong. Infrared-Visible Cross-Modal Person Re-Identification with an X Modality. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
