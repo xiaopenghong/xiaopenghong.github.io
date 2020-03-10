@@ -24,8 +24,8 @@ redirect_from:
 {: .notice--success}
 
 # Recent News
-* March, 2019. One paper got accepted by IEEE TIP. 
-* March, 2019. Becomes an Area Chari of ACM MM 20.
-* Feburary, 2019. Two papers got accepted by IEEE/CVF CVPR 2020.
-* Feburary, 2019. One paper got accepted by IEEE TIP.
+* March, 2020. One paper got accepted by IEEE TIP. 
+* March, 2020. Becomes an Area Chari of ACM MM 20.
+* Feburary, 2020. Two papers got accepted by IEEE/CVF CVPR 2020.
+* Feburary, 2020. One paper got accepted by IEEE TIP.
 * November, 2019. Three papers got accepted by AAAI, 2020.
