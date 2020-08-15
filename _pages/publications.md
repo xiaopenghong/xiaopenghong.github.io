@@ -8,13 +8,21 @@ author_profile: true
 
 ## Journal Article
 
+<b> Analogy-Detail Networks for Object Recognition. </b> <br> 
+X. Tao, <b>X. Hong</b>, W. Shi, X. Chang, Y. Gong. 
+IEEE Transactions on Neural Networks and Learning Systems, Vol. ?, pp. ?-?, 2020. <b>IEEE TNNLS, 2020</b>. <span style="color:red"> (NEW) </span>
+
+<b> Transductive semi-supervised metric learning for person re-identification. </b> <br> 
+X. Chang, Z. Ma, X. Wei, <b>X. Hong</b>, Y. Gong.
+Pattern Recognition, Vol. 108, pp. ?-?, 2020. <b>PR, 2020</b>. <span style="color:red"> (NEW) </span>
+
 <b> Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment. </b> <br> 
 Y. He#, X. Wei#, <b>X. Hong</b>, W. Shi, Y. Gong. 
-IEEE IEEE Transactions on Image Processing, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
+IEEE Transactions on Image Processing, Vol. 29, pp. 5191-5205, 2020. <b>IEEE TIP, 2020</b>.
 
 <b> [3D Skeletal Gesture Recognition via Hidden States Exploration.](https://ieeexplore.ieee.org/abstract/document/9007047/) </b> <br> 
 X. Liu, H. Shi, <b>X. Hong</b>, H.Chen, D. Tao, G. Zhao. 
-IEEE Transactions on Image Processing, vol. 29, no. 2, pp. 4583-4597, 2020. <b>IEEE TIP, 2020</b>. <span style="color:red"> (NEW) </span>
+IEEE Transactions on Image Processing, vol. 29, no. 2, pp. 4583-4597, 2020. <b>IEEE TIP, 2020</b>.
 
 <b> [Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b> <br> 
 <b>X. Hong</b>; W. Peng; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
@@ -94,9 +102,17 @@ Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b
 
 ## Conference Papers
 
-X. Tao, <b>X. Hong</b>, X. Chang, X. Wei, Y. Gong. Few-Shot Class-Incremental Learning. <i> IEEE/CVF CVPR 2020. </i> <span style="color:red"> (NEW) </span>
+X. Wei, D. Li, <b>X. Hong</b>, W. Ke, Y. Gong. Co-Attentive Lifting for Infrared-Visible Person Re-Identification. <i> ACM MM 2020. </i> <span style="color:red"> (NEW) </span>
 
-Y. Shen, R. Ji, Z. Chen, <b>X. Hong</b>, F. Zheng, J. Liu, M. Xu, Q. Tian. Noise-Aware Fully Webly Supervised Object Detection. <i> IEEE/CVF CVPR 2020. </i> <span style="color:red"> (NEW) </span>
+Z. Ma, X. Wei, <b>X. Hong</b>, Y. Gong. Learning Scales from Points: A Scale-aware Probabilistic Model for Crowd Counting. <i> ACM MM 2020. </i> <span style="color:red"> (NEW) </span>
+
+Y. Zhou, R. Ji, X. Sun, G. Luo, <b>X. Hong</b>, J. Su, X. Ding, L. Shao. K-armed Bandit based Multi-Modal Network Architecture Search for Visual Question Answering. <i> ACM MM 2020. </i> <span style="color:red"> (NEW) </span>
+
+X. Tao#, X. Chang#, <b>X. Hong</b>, X. Wei, Y. Gong. Topology-Preserving Class-Incremental Learning. <i> ECCV 2020. </i> <span style="color:red"> (NEW) </span>
+
+X. Tao, <b>X. Hong</b>, X. Chang, X. Wei, Y. Gong. Few-Shot Class-Incremental Learning. <i> IEEE/CVF CVPR 2020. </i>
+
+Y. Shen, R. Ji, Z. Chen, <b>X. Hong</b>, F. Zheng, J. Liu, M. Xu, Q. Tian. Noise-Aware Fully Webly Supervised Object Detection. <i> IEEE/CVF CVPR 2020. </i> 
 
 X. Tao, <b>X. Hong</b>, X. Chang, Y. Gong. Bi-objective Continual Learning: Learning 'New' while Consolidating 'Known'. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
 
