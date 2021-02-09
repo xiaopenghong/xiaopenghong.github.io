@@ -6,6 +6,10 @@ author_profile: true
 
 [(Google Scholar Profile)](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en)
 
+## BOOK
+
+Yihong Gong and Xiaopeng Hong. Introduction to Cognitive Science and Brain-Computer Interface (In Chinese). Xi'dian University Press, Nov. 2020.
+
 ## Journal Article
 
 <b> Analogy-Detail Networks for Object Recognition. </b> <br> 

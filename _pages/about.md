@@ -25,12 +25,5 @@ redirect_from:
 
 # Recent News
 * December, 2020. Three papers got accepted by AAAI 2021.
+* December, 2020. One book has been published by XDUP Press.
 * August, 2020. One paper got accepted by IEEE TNNLS.
-* July, 2020. One paper got accepted by BMVC 2020.
-* July, 2020. One paper got accepted by Pattern Recog.
-* July, 2020. Three papers got accepted by ACM MM 2020.
-* July, 2020. One paper got accepted by ECCV 2020.
-* June, 2020. One paper got accepted by ICPR 2020.
-* May, 2020. One paper got accepted by ICIP 2020.
-* March, 2020. One paper got accepted by IEEE TIP. 
-* March, 2020. Becomes an Area Chari of ACM MM 20.
