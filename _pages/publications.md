@@ -100,15 +100,21 @@ Bineng Zhong, Xiaotong Yuan, Rongrong Ji, Yan Yan, Zhen Cui, <b>Xiaopeng Hong</b
 <b>Xiaopeng Hong</b>, Hong Chang, Shiguang Shan, Bineng Zhong, Xilin Chen, and Wen Gao.  
 <i>IEEE Signal Processing Letter, vol. 17, no. 9, pp. 807-810, 2010. <b>IEEE SPL, 2019</b></i>.  [pdf]
 
-## Conference Papers
+## Conference Papers (Selected)
 
-X. Wei, D. Li, <b>X. Hong</b>, W. Ke, Y. Gong. Co-Attentive Lifting for Infrared-Visible Person Re-Identification. <i> ACM MM 2020. </i> <span style="color:red"> (NEW) </span>
+Z. Ma, X. Wei, <b>X. Hong</b>, H. Lin, Y. Qiu, Y. Gong. Learning to Count via Unbalanced Optimal Transport. <i> AAAI 2021. </i> <span style="color:red"> (NEW) </span>
 
-Z. Ma, X. Wei, <b>X. Hong</b>, Y. Gong. Learning Scales from Points: A Scale-aware Probabilistic Model for Crowd Counting. <i> ACM MM 2020. </i> <span style="color:red"> (NEW) </span>
+Y. He, Z. Ma, X. Wei, <b>X. Hong</b>, W. Ke, Y. Gong. Error-Aware Density Isomorphism Reconstruction for Unsupervised Cross-Domain Crowd Counting. <i> AAAI 2021. </i> <span style="color:red"> (NEW) </span>
 
-Y. Zhou, R. Ji, X. Sun, G. Luo, <b>X. Hong</b>, J. Su, X. Ding, L. Shao. K-armed Bandit based Multi-Modal Network Architecture Search for Visual Question Answering. <i> ACM MM 2020. </i> <span style="color:red"> (NEW) </span>
+S. Dong#, <b>X. Hong</b>#, X. Tao, X. Chang, X. Wei, Y. Gong. Few-Shot Class-Incremental Learning via Relation Knowledge Distillation. <i> AAAI 2021. </i> <span style="color:red"> (NEW) </span>
 
-X. Tao#, X. Chang#, <b>X. Hong</b>, X. Wei, Y. Gong. Topology-Preserving Class-Incremental Learning. <i> ECCV 2020. </i> <span style="color:red"> (NEW) </span>
+X. Wei, D. Li, <b>X. Hong</b>, W. Ke, Y. Gong. Co-Attentive Lifting for Infrared-Visible Person Re-Identification. <i> ACM MM 2020. </i>
+
+Z. Ma, X. Wei, <b>X. Hong</b>, Y. Gong. Learning Scales from Points: A Scale-aware Probabilistic Model for Crowd Counting. <i> ACM MM 2020. </i>
+
+Y. Zhou, R. Ji, X. Sun, G. Luo, <b>X. Hong</b>, J. Su, X. Ding, L. Shao. K-armed Bandit based Multi-Modal Network Architecture Search for Visual Question Answering. <i> ACM MM 2020. </i>
+
+X. Tao#, X. Chang#, <b>X. Hong</b>, X. Wei, Y. Gong. Topology-Preserving Class-Incremental Learning. <i> ECCV 2020. </i>
 
 X. Tao, <b>X. Hong</b>, X. Chang, X. Wei, Y. Gong. Few-Shot Class-Incremental Learning. <i> IEEE/CVF CVPR 2020. </i>
 
@@ -120,7 +126,7 @@ D. Li, X. Wei, <b>X. Hong</b>, Y. Gong. Infrared-Visible Cross-Modal Person Re-I
 
 W. Peng, <b>X. Hong</b>, H. Chen, G. Zhao. Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
 
-Z. Ma*, X. Wei*, <b>X. Hong</b>, Y. Gong. Bayesian Loss for Crowd Count Estimation with Point Supervision. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> 
+Z. Ma#, X. Wei#, <b>X. Hong</b>, Y. Gong. Bayesian Loss for Crowd Count Estimation with Point Supervision. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> 
 
 J. Li, R. Ji, H. Liu, <b>X. Hong</b>, Y. Gao, Q. Tian. Universal Perturbation Attacking against Image Retrieval. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i>
 
@@ -137,66 +143,52 @@ Zong Y., Zheng W., <b>Hong X.</b>, Tang C., Cui Z., Zhao G., Cross-Database Micr
 
 W. Peng, <b>X. Hong</b>, Y. Xu, and G. Zhao. <i>A Boost in Revealing Subtle Facial Expressions: A Consolidated Eulerian Framework. Proc. IEEE FG, 2019. </i>
 
-<i><span style="color:red"> Still under revision....</span> </i> <br>
+<i><span style="color:red"> Selected papers from early years </span> </i> <br>
+
 Z. Xia, H. Liang, X. Feng, and X. Hong. Cross-database Micro-expression Recognition with Deep Convolutional Networks. To appear in ACM ICBEA 2019.
 
 Khanh Tran, Quang-Nhat Vo, Xiaopeng Hong, and Guoying Zhao. Dense prediction for micro-expression spotting based on deep sequence model, Proc. IS&T International Symposium on Electronic Imaging 2019, Imaging and Multimedia Analytics in a Web and Mobile World 2019. (invited paper)
 
-Liu, X., Shi, H., Hong, X., Chen, H., Tao, D. and Zhao, G., 2019, January. Hidden States Exploration for 3D Skeleton-Based Gesture Recognition. In 2019 IEEE Winter Conference on Applications of Computer Vision (WACV) (pp. 1846-1855). IEEE.
+Liu, X., Shi, H., Hong, X., Chen, H., Tao, D. and Zhao, G., 2019, January. Hidden States Exploration for 3D Skeleton-Based Gesture Recognition.  <i>In 2019 IEEE Winter Conference on Applications of Computer Vision (WACV) (pp. 1846-1855). IEEE. </i>
 
-Bo Zhao (student), Xinwei Sun (student), Xiaopeng Hong, Yuan Yao, Yizhou Wang. Zero shot learning via recurrent knowledge transfer, Proc. WACV, 2019. (JUFO Level: 1)
-Zhaoqiang Xia, Xiaoyi Feng, Xiaopeng Hong, Guoying Zhao. Spontaneous Facial Micro-expression Recognition via Deep Convolutional Network, Proc. IEEE IPTA, 2018.
+Bo Zhao (student), Xinwei Sun (student), <b>Xiaopeng Hong</b>, Yuan Yao, Yizhou Wang. Zero shot learning via recurrent knowledge transfer,  <i>Proc. WACV, 2019 </i>. (JUFO Level: 1)
 
-Henglin Shi (student), Xin Liu, Xiaopeng Hong, Guoying Zhao. Bidirectional Long Short-Term Memory Variational Autoencoder, BMVC 2018. (JUFO Level: 1)
+Henglin Shi, Xin Liu, <b>Xiaopeng Hong</b>, Guoying Zhao. Bidirectional Long Short-Term Memory Variational Autoencoder,  <i> BMVC 2018 </i>. (JUFO Level: 1)
 
-Lei Tian* (student), Xiaopeng Hong*, Chunxiao Fan, Yue Ming, Matti Pietikäinen, Guoying Zhao. Sparse Tikhonov-Regularized Hashing for Multi-modal learning. To appear in ICIP, 2018. (JUFO Level: 1)
+Lei Tian*, <b>Xiaopeng Hong</b>*, Chunxiao Fan, Yue Ming, Matti Pietikäinen, Guoying Zhao. Sparse Tikhonov-Regularized Hashing for Multi-modal learning.  <i>Proc. ICIP, 2018.  </i>
 
-Ruijing Yang (student), Xiaopeng Hong, Jinye Peng, Xiaoyi Feng, Guoying Zhao. Incorporating high-level and low-level cues for pain intensity estimation. To appear in ICPR, 2018. (JUFO Level: 1)
+Ruijing Yang, <b>Xiaopeng Hong</b>, Jinye Peng, Xiaoyi Feng, Guoying Zhao. Incorporating high-level and low-level cues for pain intensity estimation.  <i>Proc ICPR, 2018. </i>
 
-Moi Hoon Yap, John See, Xiaopeng Hong, Su-jing Wang. Facial Micro-Expressions Grand Challenge 2018 Summary. To appear in IEEE FG Workshops on Facial Micro-Expression Grand Challenge (MEGC): Methods and Datasets, 2018. (JUFO Level: 1)
+Moi Hoon Yap, John See, <b>Xiaopeng Hong</b>, Su-jing Wang. Facial Micro-Expressions Grand Challenge 2018 Summary.  <i>IEEE FG Workshops on Facial Micro-Expression Grand Challenge (MEGC): Methods and Datasets, 2018. </i>
 
-Thuong-Khanh Tran (student), Xiaopeng Hong. and Guoying Zhao. Sliding window based micro-expression spotting: A benchmark. Advanced Concepts for Intelligent Vision Systems, 2017, accepted. (JUFO Level: 1)
+Devangini Patel, <b>Xiaopeng Hong</b>, Guoying Zhao. Selective Deep Features for Micro-Expression Recognition.  <i>Proc. the 23nd International Conference on Pattern Recognition (ICPR), Cancun, Mexico, 2016. (JUFO Level: 1) </i>
 
-Devangini Patel (student), Xiaopeng Hong, Guoying Zhao. Selective Deep Features for Micro-Expression Recognition. Proc. the 23nd International Conference on Pattern Recognition (ICPR), Cancun, Mexico, 2016. (JUFO Level: 1)
+<b>Xiaopeng Hong</b>, Yingyue Xu, Guoying Zhao. LBP-TOP: a Tensor Unfolding Revisit.  <i>ACCV 2016 Workshop on Spontaneous Facial Behavior, (1) 2016: 513-527. </i>
 
-Xiaopeng Hong, Yingyue Xu, Guoying Zhao. LBP-TOP: a Tensor Unfolding Revisit. ACCV 2016 Workshop on Spontaneous Facial Behavior, (1) 2016: 513-527. (JUFO Level: 1)
+Jing Zhou, <b>Xiaopeng Hong</b>, Fei Su, Guoying Zhao. Recurrent Convolutional Neural Network Regression for Continuous Pain Intensity Estimation in Video.  <i>IEEE CVPR Workshop of Affect "in-the-wild," 2016. </i>
 
-Lei Tian (student), Chunxiao Fan, Yue Ming, Xiaopeng Hong. Weighted Non-locally Self-similarity Sparse Representation for Face Deblurring. ACCV 2016 Workshop on Spontaneous Facial Behavior, (1) 2016: 576-589. (JUFO Level: 1)
+Yingyue Xu, <b>Xiaopeng Hong</b>, Qiuhai He, Guoying Zhao, Matti Pietikäinen. A task-driven eye tracking dataset for visual attention analysis.  <i>Proc. Advanced Concepts for Intelligent Vision Systems (ACIVS), 2015. </i>
 
-Jing Zhou (student), Xiaopeng Hong*, Fei Su, Guoying Zhao. Recurrent Convolutional Neural Network Regression for Continuous Pain Intensity Estimation in Video. IEEE CVPR Workshop of Affect "in-the-wild," 2016. (JUFO Level: 1)
+Qiuhai He, Xiaopeng Hong, Xiujuan Chai, Jukka Holappa, Guoying Zhao, Xilin Chen, Matti Pietikäinen. OMEG: Oulu Multi-pose Eye Gaze Dataset.  <i>Proc. 19th Scandinavian Conference on Image Analysis (SCIA), 2015. </i>
 
-Yingyue Xu, Xiaopeng Hong, Qiuhai He, Guoying Zhao, Matti Pietikäinen. A task-driven eye tracking dataset for visual attention analysis. Proc. Advanced Concepts for Intelligent Vision Systems (ACIVS), 2015.
+Xiaopeng Hong, Guoying Zhao, and Matti Pietikäinen. Pose Estimation via Complex-Frequency Domain Analysis of Image Gradient Orientations.  <i>Proc. the 22nd International Conference on Pattern Recognition, Stockholm, Sweden, 2014. </i>
 
-Qiuhai He, Xiaopeng Hong, Xiujuan Chai, Jukka Holappa, Guoying Zhao, Xilin Chen, Matti Pietikäinen. OMEG: Oulu Multi-pose Eye Gaze Dataset. Proc. 19th Scandinavian Conference on Image Analysis (SCIA), 2015. (JUFO Ranking: 1)
+Qiuhai He, <b>Xiaopeng Hong</b>, Guoying Zhao, and Xinyuan Huang. An Immersive Fire Training System Using Kinect.  <i>Proc. the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2014). </i>
 
-Xiaopeng Hong, Guoying Zhao, and Matti Pietikäinen. Pose Estimation via Complex-Frequency Domain Analysis of Image Gradient Orientations. Proc. the 22nd International Conference on Pattern Recognition, Stockholm, Sweden, 2014. (JUFO Ranking: 1)
+Juha Ylioinas, Abdenour Hadid, <b>Xiaopeng Hong</b>, and Matti Pietikäinen. Age Estimation Using Local Binary Pattern Kernel Estimate.  <i>The 17th International Conference on Image Analysis and Processing (ICIAP), 2013.  </i>
 
-Qiuhai He, Xiaopeng Hong, Guoying Zhao, and Xinyuan Huang. An Immersive Fire Training System Using Kinect. Proc. the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2014). (JUFO Ranking: 2, CCF-A)
+<b>Xiaopeng Hong</b>, Guoying Zhao, Matti Pietikäinen, and Xilin Chen. Combining Local and Global Correlation for Texture Description.  <i>Proc. 21st International Conference on Pattern Recognition (ICPR), 2012.  </i>
 
-Xiaohua Huang, Qiuhai He, Xiaopeng Hong, Guoying Zhao, and Matti Pietikäinen. Improved Spatiotemporal local monogenic Binary pattern for Emotion Recognition in the Wild. Proc. 16th ACM International Conference on Multimodal Interaction, 2014.
+<b>Xiaopeng Hong</b>, Hong Chang, Xilin Chen, and Wen Gao. Boosted Sigma set for pedestrian detection.  <i>Proc. International Conference on Pattern Recognition (ICPR), pp. 3017-3020, 2010.  </i>
 
-Xiaopeng Hong, Guoying Zhao, Xilin Chen, and Haoyu Ren. Efficient boosted weak classifiers for object detection. Proc. 18th Scandinavian Conference on Image Analysis (SCIA), 2013. (JUFO Ranking: 1) [pdf][slides]
+Haoyu Ren, <b>Xiaopeng Hong</b>, CHER KENG HENG, Luhong Liang, and Xilin Chen. A sample pre-mapping method enhancing boosting for object detection.  <i>Proc. International Conference on Pattern Recognition (ICPR), pp. 3005-3008, 2010. </i>
 
-Xiaohua Huang, Guoying Zhao, Xiaopeng Hong, Matti Pietikäinen, and Weiming Zheng. Texture description with completed local quantized patterns. Proc. 18th Scandinavian Conference on Image Analysis (SCIA), 2013. (JUFO Ranking: 1) [pdf]
+<b>Xiaopeng Hong</b>, Hong Chang, Shiguang Shan, Xilin Chen, and Wen Gao. Sigma set: A small second order statistical region descriptor.  <i>Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 1802-1809, 2009.  </i>
 
-Juha Ylioinas, Xiaopeng Hong, and Matti Pietikäinen. Constructing local binary pattern statistics by soft voting. Proc. 18th Scandinavian Conference on Image Analysis (SCIA), 2013. (JUFO Ranking: 1) [pdf]
+Xiaoxin Lin, Hongxun Yao, <b>Xiaopeng Hong</b>, and Qian Wang. HIT-AVDB-II: A New Multi-view and Extreme Feature Cases Contained Audio-Visual Database for Biometrics.  <i>Proc. International Conference on Computer Vision，Pattern Recognition and Image Processing, 2008.  </i>
 
-Juha Ylioinas, Abdenour Hadid, Xiaopeng Hong, and Matti Pietikäinen. Age Estimation Using Local Binary Pattern Kernel Estimate. The 17th International Conference on Image Analysis and Processing (ICIAP), 2013. (JUFO Ranking: 1) [pdf]
+<b>Xiaopeng Hong</b>, Hongxun Yao, Yuqi Wan, and Rong Chen. A PCA based visual DCT feature extraction method for lip-reading.  <i>Proc. International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIHMSP), pp. 321-326, 2006. </i>
 
-Xiaopeng Hong, Guoying Zhao, Matti Pietikäinen, and Xilin Chen. Combining Local and Global Correlation for Texture Description. Proc. 21st International Conference on Pattern Recognition (ICPR), 2012. (JUFO Ranking: 1) [pdf][slides]
+<b>Xiaopeng Hong</b>, Hongxun Yao, Qinghui Liu, and Rong Chen. An information acquiring channel - lip movement.  <i>Proc. International Conference on Affective Computing and Intelligent Interaction (ACII), pp. 232-238, 2005. </i>
 
-Xiaopeng Hong, Hong Chang, Xilin Chen, and Wen Gao. Boosted Sigma set for pedestrian detection. Proc. International Conference on Pattern Recognition (ICPR), pp. 3017-3020, 2010. (JUFO Ranking: 1) [pdf]
-
-Haoyu Ren, Xiaopeng Hong, CHER KENG HENG, Luhong Liang, and Xilin Chen. A sample pre-mapping method enhancing boosting for object detection. Proc. International Conference on Pattern Recognition (ICPR), pp. 3005-3008, 2010. (JUFO Ranking: 1) [pdf]
-
-Xiaopeng Hong, Hong Chang, Shiguang Shan, Xilin Chen, and Wen Gao. Sigma set: A small second order statistical region descriptor. Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 1802-1809, 2009. (JUFO Ranking: 2, CCF-A) [pdf]
-
-Bineng Zhong, Xiaopeng Hong, Hongxun Yao, Shiguang Shan, Xilin Chen, and Wen Gao. Texture and Motion Pattern Fusion for Background Subtraction. Proc. the 11th Joint Conference on Information Sciences, 2008. [pdf]
-
-Xiaoxin Lin, Hongxun Yao, Xiaopeng Hong, and Qian Wang. HIT-AVDB-II: A New Multi-view and Extreme Feature Cases Contained Audio-Visual Database for Biometrics. Proc. International Conference on Computer Vision，Pattern Recognition and Image Processing, 2008. [pdf]
-
-Xiaopeng Hong, Hongxun Yao, Yuqi Wan, and Rong Chen. A PCA based visual DCT feature extraction method for lip-reading. Proc. International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIHMSP), pp. 321-326, 2006. [pdf]
-
-Xiaopeng Hong, Hongxun Yao, Qinghui Liu, and Rong Chen. An information acquiring channel - lip movement. Proc. International Conference on Affective Computing and Intelligent Interaction (ACII), pp. 232-238, 2005. (JUFO Ranking: 1) [pdf]
-
-[\* denotes equal contribution]
+[\# denotes equal contribution]
