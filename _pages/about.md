@@ -16,7 +16,7 @@ redirect_from:
 {: .notice--info} 
 * I have published over 50 articles in mainstream journals and conferences such as IEEE T-PAMI, IEEE T-IP, IEEE CVPR, IEEE ICCV, AAAI, and ACM UbiComp, and have one issued Chinese Patent, with a total Google Scholar citation over 1800, an H-index =21 and an H10-index = 36. Global media have reported my research including MIT Technology Review and Daily Mail.
 {: .notice--info} 
-* I have been an area chair of ACM MM20, IEEE IPTA 16, and IEEE PCSPA 11 and (co-)organized one journal special issue and five international workshops, and served as a reviewer for about 30 journals (such as IEEE TPAMI, Springer IJCV, IEEE TIP, TNNLS, T Cybernetics, TCSVT, TAFFC, and TMM) and conferences like CVPR, ICCV, ECCV, and ACM MM, etc. I am a member of IEEE/CAS, AAAI, and CCF. 
+* I have been an area chair/senior PC of IJCAI21, AAAI21, ACM MM20, IEEE IPTA 16, and IEEE PCSPA 11 and (co-)organized one journal special issue and five international workshops, and served as a reviewer for about 30 journals (such as IEEE TPAMI, Springer IJCV, IEEE TIP, TNNLS, T Cybernetics, TCSVT, TAFFC, and TMM) and conferences like CVPR, ICCV, ECCV, and ACM MM, etc. I am a member of IEEE/CAS, AAAI, and CCF. 
 {: .notice--info}   
 * I have been a PI of several projects such as the National Key R&D Program Projects, PRC and Infotech Oulu Postdoctoral funding project, and the project manager of an Academy of Finland ICT 2023 funding project (also the only co-writer of that proposal). 
 {: .notice--info} 
@@ -34,5 +34,3 @@ redirect_from:
 * May, 2020. One paper got accepted by ICIP 2020.
 * March, 2020. One paper got accepted by IEEE TIP. 
 * March, 2020. Becomes an Area Chari of ACM MM 20.
-* Feburary, 2020. Two papers got accepted by IEEE/CVF CVPR 2020.
-* Feburary, 2020. One paper got accepted by IEEE TIP.
