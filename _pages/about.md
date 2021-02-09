@@ -14,7 +14,7 @@ redirect_from:
 {: .notice--info} 
 * I have become a <i>Docent</i> with <i>the Center for Machine Vision and Signal Analysis (CMVS), University of Oulu, Finland, since March, 2018 </i>, where I had been a scientist researcher from 2011 to 2019. 
 {: .notice--info} 
-* I have published over 50 articles in mainstream journals and conferences such as IEEE T-PAMI, IEEE T-IP, IEEE CVPR, IEEE ICCV, AAAI, and ACM UbiComp, and have one issued Chinese Patent, with a total Google Scholar citation over 1400, an H-index =19 and an H10-index = 29. Global media have reported my research including MIT Technology Review and Daily Mail.
+* I have published over 50 articles in mainstream journals and conferences such as IEEE T-PAMI, IEEE T-IP, IEEE CVPR, IEEE ICCV, AAAI, and ACM UbiComp, and have one issued Chinese Patent, with a total Google Scholar citation over 1800, an H-index =21 and an H10-index = 36. Global media have reported my research including MIT Technology Review and Daily Mail.
 {: .notice--info} 
 * I have been an area chair of ACM MM20, IEEE IPTA 16, and IEEE PCSPA 11 and (co-)organized one journal special issue and five international workshops, and served as a reviewer for about 30 journals (such as IEEE TPAMI, Springer IJCV, IEEE TIP, TNNLS, T Cybernetics, TCSVT, TAFFC, and TMM) and conferences like CVPR, ICCV, ECCV, and ACM MM, etc. I am a member of IEEE/CAS, AAAI, and CCF. 
 {: .notice--info}   
@@ -24,6 +24,7 @@ redirect_from:
 {: .notice--success}
 
 # Recent News
+* December, 2020. Three papers got accepted by AAAI 2021.
 * August, 2020. One paper got accepted by IEEE TNNLS.
 * July, 2020. One paper got accepted by BMVC 2020.
 * July, 2020. One paper got accepted by Pattern Recog.
