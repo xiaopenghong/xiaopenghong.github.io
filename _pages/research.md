@@ -18,23 +18,25 @@ author_profile: true
 * <span style="color:red">Video Based Class Incremental Learning</span>
 {: .notice--primary}
 
-* Visual Surveillence
+## Visual Surveillence
+
+
+## <span style="color:red">Scheduling and Allocation</span>
+
+
+
+## MODEL VULNERABILITY AND ROBUSTNESS
+
+
+* <span style="color:red">ReID Model Attack</span>
 {: .notice--primary}
 
-### <span style="color:red">Scheduling and Allocation</span>
+
+## FACIAL SUBTLE ACTION ANALYSIS
 
 
-
-* MODEL VULNERABILITY AND ROBUSTNESS
+*  <span style="color:red">Micro-expression Analysis</span>
 {: .notice--primary}
-
-### <span style="color:red">ReID Model Attack</span>
-
-
-* FACIAL SUBTLE ACTION ANALYSIS
-{: .notice--primary}
-
-### <span style="color:red">Micro-expression Analysis</span>
 
 <i><span style="color:red"> Still under revision....</span> </i> <br>
 
