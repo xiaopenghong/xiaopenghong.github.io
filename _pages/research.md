@@ -55,7 +55,9 @@ author_profile: true
 
 ## Scheduling and Allocation
 
-
+>
+> ###  <span style="color:red">Route Planning</span>
+>
 
 ## MODEL VULNERABILITY AND ROBUSTNESS
 
@@ -82,5 +84,5 @@ IEEE Transactions on Multimedia, Vol. 22, No. 3, pp. 626-640, IEEE TMM, 2019.
 > - Zitong Yu#, Wei Peng#, Xiaobai Li, Xiaopeng Hong, Guoying Zhao, “Remote Heart Rate Measurement From Highly Compressed Facial Videos: An End-to-End Deep Learning Solution With Video Enhancement”, in 2019 IEEE/CVF International Conference on Computer Vision (ICCV). ***the IEEE Finland Section best student conference paper award 2020***
 
 
-<i><span style="color:red"> Still under revision....</span> </i> <br>
+
 
