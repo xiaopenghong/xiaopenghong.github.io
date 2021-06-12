@@ -12,19 +12,19 @@ Yihong Gong and Xiaopeng Hong. Introduction to Cognitive Science and Brain-Compu
 
 ## Journal Article (Selected)
 
-<b> Beyond Universal Person Re-Identification Attack, </b> <br>  
+<b> [Beyond Universal Person Re-Identification Attack,](https://ieeexplore.ieee.org/abstract/document/9432915) </b> <br>  
 W. Ding, X. Wei, R. Ji, X. Hong, Q. Tian and Y. Gong, 
 IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3442-3455, 2021, doi: 10.1109/TIFS.2021.3081247. <b>IEEE TIFS, 2021</b>. <span style="color:red"> (NEW) </span>
 
-<b> Analogy-Detail Networks for Object Recognition. </b> <br> 
+<b> [Analogy-Detail Networks for Object Recognition.](https://ieeexplore.ieee.org/abstract/document/9265452) </b> <br> 
 X. Tao, <b>X. Hong</b>, W. Shi, X. Chang, Y. Gong. 
 IEEE Transactions on Neural Networks and Learning Systems, 2020, DOI: 10.1109/TNNLS.2020.3017692. <b>IEEE TNNLS, 2020</b>.
 
-<b> Transductive semi-supervised metric learning for person re-identification. </b> <br> 
+<b> [Transductive semi-supervised metric learning for person re-identification.](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303721) </b> <br> 
 X. Chang, Z. Ma, X. Wei, <b>X. Hong</b>, Y. Gong.
-Pattern Recognition, Vol. 108, pp. ?-?, 2020. <b>PR, 2020</b>. <span style="color:red"> (NEW) </span>
+Pattern Recognition, Vol. 108, 107569, 2020. <b>Pattern Recognit., 2020</b>.
 
-<b> Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment. </b> <br> 
+<b> [Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment.](https://ieeexplore.ieee.org/abstract/document/9042858) </b> <br> 
 Y. He#, X. Wei#, <b>X. Hong</b>, W. Shi, Y. Gong. 
 IEEE Transactions on Image Processing, Vol. 29, pp. 5191-5205, 2020. <b>IEEE TIP, 2020</b>.
 
