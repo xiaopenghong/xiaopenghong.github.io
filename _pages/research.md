@@ -3,17 +3,20 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-* Incremental Learning/Continual Learning
+## Incremental Learning/Continual Learning
+
+
+* <span style="color:red">Instance Incremental Learning</span>
 {: .notice--primary}
 
-### <span style="color:red">Instance Incremental Learning</span>
+* <span style="color:red">Class Incremental Learning</span>
+{: .notice--primary}
 
-### <span style="color:red">Class Incremental Learning</span>
+* <span style="color:red">Few-shot Class Incremental Learning</span>
+{: .notice--primary}
 
-### <span style="color:red">Few-shot Class Incremental Learning</span>
-
-### <span style="color:red">Video Based Class Incremental Learning</span>
-
+* <span style="color:red">Video Based Class Incremental Learning</span>
+{: .notice--primary}
 
 * Visual Surveillence
 {: .notice--primary}
