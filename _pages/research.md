@@ -3,7 +3,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Incremental Learning/Continual Learning
+* Incremental Learning/Continual Learning
+{: .notice--primary}
 
 ### <span style="color:red">Instance Incremental Learning</span>
 
@@ -14,19 +15,21 @@ author_profile: true
 ### <span style="color:red">Video Based Class Incremental Learning</span>
 
 
-## Visual Surveillence
-
+* Visual Surveillence
+{: .notice--primary}
 
 ### <span style="color:red">Scheduling and Allocation</span>
 
 
 
-## MODEL VULNERABILITY AND ROBUSTNESS
+* MODEL VULNERABILITY AND ROBUSTNESS
+{: .notice--primary}
 
 ### <span style="color:red">ReID Model Attack</span>
 
 
-## FACIAL SUBTLE ACTION ANALYSIS
+* FACIAL SUBTLE ACTION ANALYSIS
+{: .notice--primary}
 
 ### <span style="color:red">Micro-expression Analysis</span>
 
