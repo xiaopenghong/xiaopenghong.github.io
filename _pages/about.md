@@ -24,7 +24,7 @@ redirect_from:
 {: .notice--success}
 
 # Recent News
-* May, our proposal about facial analysis got approved by IEEE IJCB 2021.
+* May, our proposal about 'Face Analysis beyond Recognition' got approved by IEEE IJCB 2021.
 * May, two papers got accepted by IEEE ICIP 2021.
 * May, our paper about Neural-architecture-analysis based crowd counting got accepted by ACM TOMM.
 * May, our paper about re-id model attack got accepted by IEEE TIFS.
