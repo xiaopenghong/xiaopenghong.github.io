@@ -12,7 +12,7 @@ Yihong Gong and Xiaopeng Hong. Introduction to Cognitive Science and Brain-Compu
 
 ## Journal Article (Selected)
 
-<b> [Beyond Universal Person Re-Identification Attack,](https://ieeexplore.ieee.org/abstract/document/9432915) </b> <br>  
+<b> [Beyond Universal Person Re-Identification Attack,](https://ieeexplore.ieee.org/abstract/document/9432915) </b> <br>
 W. Ding, X. Wei, R. Ji, X. Hong, Q. Tian and Y. Gong, 
 IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3442-3455, 2021, doi: 10.1109/TIFS.2021.3081247. <b>IEEE TIFS, 2021</b>. <span style="color:red"> (NEW) </span>
 
