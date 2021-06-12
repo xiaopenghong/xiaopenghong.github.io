@@ -75,11 +75,11 @@ X. Tao, <b>X. Hong</b>, X. Chang, X. Wei, Y. Gong. Few-Shot Class-Incremental Le
 
 Y. Shen, R. Ji, Z. Chen, <b>X. Hong</b>, F. Zheng, J. Liu, M. Xu, Q. Tian. Noise-Aware Fully Webly Supervised Object Detection. <i> IEEE/CVF CVPR 2020. </i> 
 
-X. Tao, <b>X. Hong</b>, X. Chang, Y. Gong. Bi-objective Continual Learning: Learning 'New' while Consolidating 'Known'. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
+X. Tao, <b>X. Hong</b>, X. Chang, Y. Gong. Bi-objective Continual Learning: Learning 'New' while Consolidating 'Known'. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i>
 
-D. Li, X. Wei, <b>X. Hong</b>, Y. Gong. Infrared-Visible Cross-Modal Person Re-Identification with an X Modality. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
+D. Li, X. Wei, <b>X. Hong</b>, Y. Gong. Infrared-Visible Cross-Modal Person Re-Identification with an X Modality. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i>
 
-W. Peng, <b>X. Hong</b>, H. Chen, G. Zhao. Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i> <span style="color:red"> (NEW) </span>
+W. Peng, <b>X. Hong</b>, H. Chen, G. Zhao. Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching. <i> AAAI Conference on Artificial Intelligence, AAAI2020. </i>
 
 Z. Ma#, X. Wei#, <b>X. Hong</b>, Y. Gong. Bayesian Loss for Crowd Count Estimation with Point Supervision. <i>International Conference on Computer Vision (ICCV), Seoul, Korea​, 2019.</i> 
 
