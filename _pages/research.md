@@ -5,25 +5,30 @@ author_profile: true
 ---
 ## Incremental Learning/Continual Learning
 
-### Instance Incremental Learning
+### <span style="color:red">Instance Incremental Learning</span>
 
-### Class Incremental Learning
+### <span style="color:red">Class Incremental Learning</span>
 
-### Few-shot Class Incremental Learning
+### <span style="color:red">Few-shot Class Incremental Learning</span>
 
-### Video Based Class Incremental Learning
+### <span style="color:red">Video Based Class Incremental Learning</span>
 
 
 ## Visual Surveillence
 
-### Scheduling and Allocation
 
-### MODEL VULNERABILITY AND ROBUSTNESS
+### <span style="color:red">Scheduling and Allocation</span>
+
+
+
+## MODEL VULNERABILITY AND ROBUSTNESS
+
+### <span style="color:red">ReID Model Attack</span>
 
 
 ## FACIAL SUBTLE ACTION ANALYSIS
 
-### Micro-expression Analysis
+### <span style="color:red">Micro-expression Analysis</span>
 
 <i><span style="color:red"> Still under revision....</span> </i> <br>
 
