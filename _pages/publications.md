@@ -12,48 +12,47 @@ Yihong Gong and Xiaopeng Hong. Introduction to Cognitive Science and Brain-Compu
 
 ## Journal Article (Selected)
 
-<ol>
-<li><b> [Beyond Universal Person Re-Identification Attack,](https://ieeexplore.ieee.org/abstract/document/9432915) </b></li> <br>
+<b> [Beyond Universal Person Re-Identification Attack,](https://ieeexplore.ieee.org/abstract/document/9432915) </b><br>
 W. Ding, X. Wei, R. Ji, X. Hong, Q. Tian and Y. Gong, 
 IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3442-3455, 2021, doi: 10.1109/TIFS.2021.3081247. <b>IEEE TIFS, 2021</b>. <span style="color:red"> (NEW) </span>
 
-<li><b> [Analogy-Detail Networks for Object Recognition.](https://ieeexplore.ieee.org/abstract/document/9265452) </b></li> <br> 
+<b> [Analogy-Detail Networks for Object Recognition.](https://ieeexplore.ieee.org/abstract/document/9265452) </b><br> 
 X. Tao, <b>X. Hong</b>, W. Shi, X. Chang, Y. Gong. 
 IEEE Transactions on Neural Networks and Learning Systems, 2020, DOI: 10.1109/TNNLS.2020.3017692. <b>IEEE TNNLS, 2020</b>.
 
-<li><b> [Transductive semi-supervised metric learning for person re-identification.](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303721) </b></li> <br> 
+<b> [Transductive semi-supervised metric learning for person re-identification.](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303721) </b><br> 
 X. Chang, Z. Ma, X. Wei, <b>X. Hong</b>, Y. Gong.
 Pattern Recognition, Vol. 108, 107569, 2020. <b>Pattern Recognit., 2020</b>.
 
-<li><b> [Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment.](https://ieeexplore.ieee.org/abstract/document/9042858) </b></li> <br> 
+<b> [Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment.](https://ieeexplore.ieee.org/abstract/document/9042858) </b><br> 
 Y. He#, X. Wei#, <b>X. Hong</b>, W. Shi, Y. Gong. 
 IEEE Transactions on Image Processing, Vol. 29, pp. 5191-5205, 2020. <b>IEEE TIP, 2020</b>.
 
-<li><b> [Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b></li> <br> 
+<b> [Characterizing Subtle Facial Movements via Riemannian Manifold.](https://www.hongxiaopeng/publications) </b><br> 
 <b>X. Hong</b>; W. Peng; M. Harandi; Z. Zhou; M. Pietikäinen, and G. Zhao.
 <i>ACM Transactions on Multimedia Computing Communications and Applications, Vol. 15, No. 3s, pp. 1-24, </i> <b>ACM TOMM, 2019</b>.
 
-<li><b>[Saliency integration: An arbitrator model.](https://ieeexplore.ieee.org/abstract/document/8411135/)</b></li> <br>
+<b>[Saliency integration: An arbitrator model.](https://ieeexplore.ieee.org/abstract/document/8411135/)</b><br>
 Xu, Y.\*, <b>Hong, X.</b>\*, Porikli, F., Liu, X., Chen, J. and Zhao, G..
 <i>IEEE Transactions on Multimedia, 21(1), pp.98-113, <b>IEEE TMM, 2019</b></i>. 
 
-<li><b>[Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods.](https://ieeexplore.ieee.org/abstract/document/7851001)</b></li><br>
+<b>[Towards Reading Hidden Emotions: A Comparative Study of Spontaneous Micro-expression Spotting and Recognition Methods.](https://ieeexplore.ieee.org/abstract/document/7851001)</b><br>
 Xiaobai Li (student), <b>Xiaopeng Hong</b>, Antti Moilanen, Xiaohua Huang, Thomas Pfister, Guoying Zhao, Matti Pietikäinen.
 <i>IEEE Transactions on Affective Computing, Vol. 9, No. 4, pp. 563-577, </i> <b>IEEE TAFFC, 2018</b>. <span style="color:red">Reports from [MIT Technology Review](https://www.technologyreview.com/s/543501/machine-vision-algorithm-learns-to-recognize-hidden-facial-expressions/) and [DailyMail](https://www.dailymail.co.uk/sciencetech/article-3320222/Algorithm-uses-machine-vision-spot-recognise-hidden-emotions.html)</span> 
 
-<li><b>[Hierarchical Contour Closure based Holistic Salient Object Detection.](http://hongxiaopeng.com/publications/GanGradient)</b></li> <br>
+<b>[Hierarchical Contour Closure based Holistic Salient Object Detection.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 Qing Liu (student), <b>Xiaopeng Hong</b>, Beiji Zou, Jie Chen, Zailiang Chen, and Guoying Zhao.
 <i>IEEE Transactions on Image Processing, vol. 26, no. 9, pp. 4537 – 4552, 2017. <b>IEEE TIP, 2017.</b></i>
 
-<li><b>[A Compact Representation of Visual Speech Data Using Latent Variables.](http://hongxiaopeng.com/publications/GanGradient)</b></li><br>
+<b>[A Compact Representation of Visual Speech Data Using Latent Variables.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 Ziheng Zhou, <b>Xiaopeng Hong</b>, Guoying Zhao, and Matti Pietikäinen.  
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.36, no.1, 2014. <b>IEEE TPAMI, 2014</b></i>. 
 
-<li><b>[Combining LBP Difference and Feature Correlation for Texture Description.](http://hongxiaopeng.com/publications/GanGradient)</b></li><br>
+<b>[Combining LBP Difference and Feature Correlation for Texture Description.](http://hongxiaopeng.com/publications/GanGradient)</b><br>
 <b>Xiaopeng Hong</b>, Guoying Zhao, Matti Pietikäinen, and Xilin Chen.  
 <i>IEEE Transactions on Image Processing, vol.23, no. 6, 2557–2568, 2014. <b>IEEE TIP, 2014</b></i>.  [pdf][Matlab Codes]
 
-</ol>
+
 ## Conference Papers (Selected)
 
 H. Lin, <b>X. Hong</b>, Z. Ma, X. Wei, Y. Qiu, Y. Wang, ​Y. Gong. Direct Measure Matching for Crowd Counting. <i> IJCAI 2021. </i> <span style="color:red"> (NEW) </span>
