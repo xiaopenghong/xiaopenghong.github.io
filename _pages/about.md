@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am now an <i> Distinguished Research Fellow </i> at <i>Xi’an Jiaotong University</i>. 
+* I will soon work at <i>Harbin Institue of Technology</i>. I was an <i> Distinguished Research Fellow </i> at <i>Xi’an Jiaotong University</i> from Feburary 2019 to October 2021. 
 {: .notice--primary}
 * I received my Ph.D. degree in computer application and technology from <i>Harbin Institute of Technology, Harbin, P. R. China</i>, in 2010.
 {: .notice--info} 
