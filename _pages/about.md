@@ -10,15 +10,8 @@ redirect_from:
 
 * I will soon work at <i>Harbin Institue of Technology</i>. I was an <i> Distinguished Research Fellow </i> at <i>Xi’an Jiaotong University</i> from Feburary 2019 to October 2021. 
 {: .notice--primary}
-* I received my Ph.D. degree in computer application and technology from <i>Harbin Institute of Technology, Harbin, P. R. China</i>, in 2010.
-{: .notice--info} 
-* I have become a <i>Docent</i> with <i>the Center for Machine Vision and Signal Analysis (CMVS), University of Oulu, Finland, since March, 2018 </i>, where I had been a scientist researcher from 2011 to 2019. 
-{: .notice--info} 
-* I have published over 50 articles in mainstream journals and conferences such as IEEE T-PAMI, IEEE T-IP, IEEE T-NNLS, IEEE CVPR, IEEE ICCV, AAAI, and ACM UbiComp with a total Google Scholar citation over 2600, an H-index =26 and an H10-index = 46. Global media have reported my research including MIT Technology Review and Daily Mail.
-{: .notice--info} 
-* I have been an area chair/senior PC of IJCAI21, AAAI 22/21, ACM MM 21/20, IEEE IPTA 16, and IEEE PCSPA 11 and (co-)organized one journal special issue and five international workshops, and served as a reviewer for about 30 journals (such as IEEE TPAMI, Springer IJCV, IEEE TIP, TNNLS, T Cybernetics, TCSVT, TAFFC, and TMM) and conferences like CVPR, ICCV, ECCV, and ACM MM, etc. I am a member of IEEE/CAS, AAAI, and CCF. 
-{: .notice--info}   
-* I have been a PI of several projects such as the National Key R&D Program Projects, PRC and Infotech Oulu Postdoctoral funding project, and the project manager of an Academy of Finland ICT 2023 funding project (also the only co-writer of that proposal). 
+I am a professor at Harbin Institute of Technology (HIT), PRC. I had been a professor at Xi'an Jiaotong University, P. R. China and a senior researcher/adjunct professor with University of Oulu, Finland until 2019. I received my Ph.D. degree in computer application and technology from HIT under the supervision of Prof. Wen GAO (FIEEE, FACM), in 2010. I have authored over 50 articles in top-tier publications and conferences such as IEEE T-PAMI, CVPR, ICCV, and AAAI. I have served as an area chair/SPC for ACM MM 21/20, AAAI 21/20, and IJCAI21, a guest editor for peer-reviewed journals like Patter Recognition Letter and Signal, Image and Video Processing, and a co-organizer for six international workshops in conjunction with IEEE CVPR, ACM MM, IEEE FG. My studies about subtle facial movement analysis have been reported by International media like MIT Technology Review also have been awarded the IEEE Finland Section best student conference paper of 2020. I have been a PI of several projects such as the National Key R&D Program Projects, PRC and Infotech Oulu Postdoctoral funding project, and the project manager of an Academy of Finland ICT 2023 funding project. 
+ 
 {: .notice--info} 
 * My current research interests include visual surveillance, continual learning, micro-expression analysis, and so forth. 
 {: .notice--success}
