@@ -14,10 +14,8 @@ redirect_from:
 {: .notice--success}
 
 # Recent News
-* July, two papers got accepted by ICCV 2021.
-* May, our proposal about 'Face Analysis beyond Recognition' got approved by IEEE IJCB 2021.
-* May, two papers got accepted by IEEE ICIP 2021.
-* May, our paper about Neural-architecture-analysis based crowd counting got accepted by ACM TOMM.
-* May, our paper about re-id model attack got accepted by IEEE TIFS.
-* April, one Paper about measure based crowd counting just got accepted by IJCAI 2021.
-* Our method (MMPAT) has taken the top place in the 2D/3D tracking challenge in the 2nd Workshop on Visual Perception for Navigation in Human Environments.
+* April, One joint paper about dual-branch image super-resolution was accepted by IJCAI22.
+* April, [Github knowledge hub](https://github.com/Vision-Intelligence-and-Robots-Group/Best-Incremental-Learning) about incremental learning/continual learning was released.
+* March, one paper about dynamic local attention for crowd counting got approved by IEEE CVPR 2022.
+* Feburary, one paper about counting-tracking co-modeling got accepted by IEEE TIP.
+* January, one paper about neighborhood maintainance based incremental learning got accepted by IEEE TNNLS.
