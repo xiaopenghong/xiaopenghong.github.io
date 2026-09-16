@@ -1,8 +1,11 @@
 ---
-title: "Student"
+title: "Students"
 permalink: /student/
 author_profile: true
 ---
 
-<i><span style="color:red"> Still under construction....</span> </i> <br>
+## Prospective students
 
+I welcome inquiries from students interested in computer vision, multimodal learning, and continual learning. Please include a short description of your research interests and relevant experience when you [contact me](/contact/).
+
+For current supervision and admissions information, see my [HIT faculty profile](https://homepage.hit.edu.cn/hongxiaopeng).

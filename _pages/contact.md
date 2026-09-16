@@ -1,9 +1,13 @@
 ---
-layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-<b>Affiliation</b>: School of Electronic and Information Engineering, Xi'an Jiaotong University, P. R. China. <br>
-​<b>Post Address</b>: Room 309,  West 4 Build, Qujiang Campus, Yanxiang Road No. 99, Xi'an, Shaanxi, P. R. China <br>
-<b>Email Address</b>: hongxiaopeng [AT] ieee.org <br>
+
+## Get in touch
+
+**Affiliation:** School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China  
+**Email:** [hongxiaopeng@ieee.org](mailto:hongxiaopeng@ieee.org)  
+**University profile:** [Harbin Institute of Technology](https://homepage.hit.edu.cn/hongxiaopeng)
+
+For correspondence to my university address, please consult the [HIT faculty profile](https://homepage.hit.edu.cn/hongxiaopeng).

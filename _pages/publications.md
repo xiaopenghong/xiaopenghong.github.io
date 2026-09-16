@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please refer to [(Google Scholar Profile)](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en) and [(DBLP Profile)](https://dblp.org/pid/06/592.html) for the full list of my publications.
+This page contains selected earlier publications. For the current and complete record, see [Google Scholar](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/06/592.html).
 
 ## BOOK
 
@@ -14,7 +14,7 @@ Yihong Gong and Xiaopeng Hong. Introduction to Cognitive Science and Brain-Compu
 
 <b> [Beyond Universal Person Re-Identification Attack,](https://ieeexplore.ieee.org/abstract/document/9432915) </b><br>
 W. Ding, X. Wei, R. Ji, X. Hong, Q. Tian and Y. Gong, 
-IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3442-3455, 2021, doi: 10.1109/TIFS.2021.3081247. <b>IEEE TIFS, 2021</b>. <span style="color:red"> (NEW) </span>
+IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3442-3455, 2021, doi: 10.1109/TIFS.2021.3081247. <b>IEEE TIFS, 2021</b>.
 
 <b> [Analogy-Detail Networks for Object Recognition.](https://ieeexplore.ieee.org/abstract/document/9265452) </b><br> 
 X. Tao, <b>X. Hong</b>, W. Shi, X. Chang, Y. Gong. 

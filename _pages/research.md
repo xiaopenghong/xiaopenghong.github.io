@@ -3,6 +3,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+My current research interests include computer vision, multimodal learning, and continual learning. The projects and publications below document selected earlier work; for the latest publications, see [Google Scholar](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en).
+
 ## Incremental Learning/Continual Learning
 
 

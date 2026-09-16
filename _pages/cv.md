@@ -1,18 +1,13 @@
 ---
-<!-- layout: archive -->
-title: "Xiaopeng Hong (洪晓鹏)"
+title: "Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<p align="center">
-  <img src="https://xiaopenghong.github.io/files/xiaopeng.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+Xiaopeng Hong (洪晓鹏) is a professor and PhD supervisor at Harbin Institute of Technology. His research interests include computer vision, multimodal learning, and continual learning.
 
-{% include base_path %}
+He received his PhD in computer application and technology from Harbin Institute of Technology in 2010. He previously held research positions at Xi’an Jiaotong University and the University of Oulu, Finland.
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://xiaopenghong.github.io/files/xiaopenghong_cv.pdf)
-
-<!-- <embed src="http://hongxiaopeng.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+For an up-to-date institutional biography, see his [HIT faculty profile](https://homepage.hit.edu.cn/hongxiaopeng). His publication record is also available on [Google Scholar](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/06/592.html).
