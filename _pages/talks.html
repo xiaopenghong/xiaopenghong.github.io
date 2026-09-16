@@ -1,11 +1,15 @@
 ---
-layout: archive
-title: "Research Talks"
+layout: section
+title: "Talks"
 permalink: /talks/
-author_profile: true
+kicker: "Academic / Talks"
+intro: "Selected invited talks and presentations."
 ---
 
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% if site.talks and site.talks.size > 0 %}
+  {% for post in site.talks reversed %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+{% else %}
+<div class="info-panel"><h2>Talks and presentations</h2><p>For speaking invitations and details of recent talks, please <a href="/contact/">get in touch</a>.</p></div>
+{% endif %}

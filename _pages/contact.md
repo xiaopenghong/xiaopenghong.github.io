@@ -1,7 +1,9 @@
 ---
 title: "Contact"
 permalink: /contact/
-author_profile: true
+layout: section
+kicker: "Connect / Contact"
+intro: "Research collaborations, academic inquiries, and prospective students."
 ---
 
 ## Get in touch

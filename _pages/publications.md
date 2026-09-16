@@ -1,7 +1,9 @@
 ---
 title: "Publications"
 permalink: /publications/
-author_profile: true
+layout: section
+kicker: "Research / Publications"
+intro: "Selected publications and links to the complete, current bibliography."
 ---
 
 This page contains selected earlier publications. For the current and complete record, see [Google Scholar](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/06/592.html).

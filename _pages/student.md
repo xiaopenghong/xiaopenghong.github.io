@@ -1,7 +1,9 @@
 ---
 title: "Students"
 permalink: /student/
-author_profile: true
+layout: section
+kicker: "People / Students"
+intro: "Information for prospective students interested in working together."
 ---
 
 ## Prospective students
