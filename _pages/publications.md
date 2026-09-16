@@ -3,16 +3,62 @@ title: "Publications"
 permalink: /publications/
 layout: section
 kicker: "Research / Publications"
-intro: "Selected publications and links to the complete, current bibliography."
+intro: "Selected papers from 2021 onward, with links to the complete bibliography."
 ---
 
-This page contains selected earlier publications. For the current and complete record, see [Google Scholar](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/06/592.html).
+Selected papers below are drawn from [DBLP](https://dblp.org/pid/06/592.html). The linked DBLP records provide full author lists and bibliographic details. For the complete and most current record, see [DBLP](https://dblp.org/pid/06/592.html) and [Google Scholar](https://scholar.google.com/citations?user=x3X-qysAAAAJ&hl=en).
 
-## BOOK
+## Selected papers, 2021–2026
+
+### 2026
+
+- [Penny-Wise and Pound-Foolish in AI-Generated Image Detection](https://dblp.org/rec/journals/pami/WangHSPH26). *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026.
+- [Dual-Attention based prompt generation and catalyzing for instance-wise continual learning](https://dblp.org/rec/journals/pr/DaiHWMYJW26). *Pattern Recognition*, 2026.
+- [Language Supervised Multi-Camera Multi-Object Tracking](https://dblp.org/rec/journals/tip/MaoHFZ26). *IEEE Transactions on Image Processing*, 2026.
+- [2D Gaussians Spatial Transport for Point-supervised Density Regression](https://dblp.org/rec/conf/aaai/ShangH26). *AAAI*, 2026.
+- [Time Series Forecasting via Direct Per-Step Probability Distribution Modeling](https://dblp.org/rec/conf/aaai/KongH26). *AAAI*, 2026.
+
+### 2025
+
+- [Semi-Supervised Counting via Pixel-by-Pixel Density Distribution Modeling](https://dblp.org/rec/journals/pami/LinMJWSHM25). *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025.
+- [OpenSDI: Spotting Diffusion-Generated Images in the Open World](https://dblp.org/rec/conf/cvpr/WangHH25). *CVPR*, 2025.
+- [Free Lunch Enhancements for Multi-modal Crowd Counting](https://dblp.org/rec/conf/cvpr/MengHLS25). *CVPR*, 2025.
+- [T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting](https://dblp.org/rec/conf/cvpr/Qian0DL00HP25). *CVPR*, 2025.
+- [Few-Shot Audio-Visual Class-Incremental Learning with Temporal Prompting and Regularization](https://dblp.org/rec/conf/aaai/CuiLYHH25). *AAAI*, 2025.
+- [Agent-MER: A Cognitive Agent with Hierarchical Deliberation for Open-Vocabulary Multimodal Emotion Recognition](https://dblp.org/rec/conf/mm/Lai0H025). *ACM Multimedia*, 2025.
+- [Joint Memory Optimization for Continual Learning](https://dblp.org/rec/journals/tcsv/MaMHLZ25). *IEEE Transactions on Circuits and Systems for Video Technology*, 2025.
+
+### 2024
+
+- [Gramformer: Learning Crowd Counting via Graph-Modulated Transformer](https://dblp.org/rec/conf/aaai/LinMHSM24). *AAAI*, 2024.
+- [Boosting Semi-supervised Crowd Counting with Scale-based Active Learning](https://dblp.org/rec/conf/mm/Zhang0LHZ24). *ACM Multimedia*, 2024.
+- [Deep Class-Incremental Learning From Decentralized Data](https://dblp.org/rec/journals/tnn/ZhangDCTGH24). *IEEE Transactions on Neural Networks and Learning Systems*, 2024.
+- [Semi-Supervised Crowd Counting With Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes](https://dblp.org/rec/journals/tcsv/QianHGAD24). *IEEE Transactions on Circuits and Systems for Video Technology*, 2024.
+
+### 2023
+
+- [One-Shot Replay: Boosting Incremental Object Detection via Retrospecting One Object](https://dblp.org/rec/conf/aaai/YangZHZ023). *AAAI*, 2023.
+- [Pseudo Object Replay and Mining for Incremental Object Detection](https://dblp.org/rec/conf/mm/YangZHZWZQW23). *ACM Multimedia*, 2023.
+- [Semi-Supervised Crowd Counting via Multiple Representation Learning](https://dblp.org/rec/journals/tip/WeiQMHG23). *IEEE Transactions on Image Processing*, 2023.
+
+### 2022
+
+- [Boosting Crowd Counting via Multifaceted Attention](https://dblp.org/rec/conf/cvpr/LinMJWH22). *CVPR*, 2022.
+- [Semi-supervised Crowd Counting via Density Agency](https://dblp.org/rec/conf/mm/LinMHWS22). *ACM Multimedia*, 2022.
+- [Identity-Quantity Harmonic Multi-Object Tracking](https://dblp.org/rec/journals/tip/HeWHKG22). *IEEE Transactions on Image Processing*, 2022.
+
+### 2021
+
+- [Towards A Universal Model for Cross-Dataset Crowd Counting](https://dblp.org/rec/conf/iccv/MaHWQG21). *ICCV*, 2021.
+- [Image-to-Image Translation via Hierarchical Style Disentanglement](https://dblp.org/rec/conf/cvpr/LiZ0CHMHWJ21). *CVPR*, 2021.
+
+## Additional selected publications
+
+### Book
 
 Yihong Gong and Xiaopeng Hong. Introduction to Cognitive Science and Brain-Computer Interface (In Chinese). Xi'dian University Press, Nov. 2020.
 
-## Journal Article (Selected)
+### Journal articles
 
 <b> [Beyond Universal Person Re-Identification Attack,](https://ieeexplore.ieee.org/abstract/document/9432915) </b><br>
 W. Ding, X. Wei, R. Ji, X. Hong, Q. Tian and Y. Gong, 
@@ -55,9 +101,9 @@ Ziheng Zhou, <b>Xiaopeng Hong</b>, Guoying Zhao, and Matti Pietikäinen.
 <i>IEEE Transactions on Image Processing, vol.23, no. 6, 2557–2568, 2014. <b>IEEE TIP, 2014</b></i>.  [pdf][Matlab Codes]
 
 
-## Conference Papers (Selected)
+### Conference papers
 
-H. Lin, <b>X. Hong</b>, Z. Ma, X. Wei, Y. Qiu, Y. Wang, ​Y. Gong. Direct Measure Matching for Crowd Counting. <i> IJCAI 2021. </i> <span style="color:red"> (NEW) </span>
+H. Lin, <b>X. Hong</b>, Z. Ma, X. Wei, Y. Qiu, Y. Wang, ​Y. Gong. Direct Measure Matching for Crowd Counting. <i> IJCAI 2021. </i>
 
 Z. Ma, X. Wei, <b>X. Hong</b>, H. Lin, Y. Qiu, Y. Gong. Learning to Count via Unbalanced Optimal Transport. <i> AAAI 2021. </i>
 
