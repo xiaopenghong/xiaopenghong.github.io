@@ -1,0 +1,110 @@
+# Edit this file to add, remove, or reorder people. A photo and scholar link are optional.
+# Photos live in /assets/images/team/. Each person appears in one group only.
+groups:
+  - title: Faculty
+    id: faculty
+    members:
+      - name: Xiaopeng Hong
+        role: Professor
+        photo: xiaopeng-hong.jpeg
+        website: https://homepage.hit.edu.cn/hongxiaopeng
+        bio: Professor at Harbin Institute of Technology. Research interests include multimodal perception, continual and incremental learning, and multi-agent scheduling.
+      - name: Yabin Wang
+        role: Associate Professor
+        photo: yabin-wang.gif
+        scholar: https://scholar.google.com/citations?user=DSMOnTIAAAAJ
+        bio: Research interests include continual learning, multimodal learning, and deepfake detection.
+
+  - title: Ph.D. students
+    id: phd-students
+    members:
+      - name: Chenhao Wang
+        photo: chenhao-wang.png
+        scholar: https://scholar.google.com/citations?user=E3SqqLgAAAAJ
+      - name: Kaige Mao
+        photo: kaige-mao.png
+        scholar: https://scholar.google.com/citations?user=fTPfQugAAAAJ
+      - name: Zhilin Zhu
+        photo: zhilin-zhu.jpg
+        scholar: https://scholar.google.com/citations?user=OBN__VIAAAAJ
+      - name: Shuangxiu Li
+        photo: shuangxiu-li.png
+        scholar: https://scholar.google.com/citations?user=TODHqIkAAAAJ
+      - name: Miao Shang
+        photo: miao-shang.jpeg
+        scholar: https://scholar.google.com/citations?user=FgLjG7YAAAAJ
+      - name: Yaohui Ma
+        photo: yaohui-ma.png
+      - name: Zhengqin Lai
+        photo: zhengqin-lai.jpg
+        scholar: https://scholar.google.com/citations?user=YuqWRrUAAAAJ
+      - name: Haoliang Meng
+        photo: haoliang-meng.png
+        scholar: https://scholar.google.com/citations?user=Wts6Ip8AAAAJ
+      - name: Linghao Kong
+        scholar: https://scholar.google.com/citations?user=CNOCm-QAAAAJ
+      - name: Zhe Lv
+      - name: Lanxin Liu
+      - name: Feng'en Li
+      - name: Jincheng Liu
+      - name: Ting Chen
+
+  - title: Master's students
+    id: masters-students
+    members:
+      - name: Peike Yuan
+        photo: peike-yuan.png
+      - name: Jinyuan Liu
+        photo: jinyuan-liu.png
+      - name: Hongbo Yang
+        photo: hongbo-yang.jpeg
+      - name: Xiaobing Qian
+        photo: xiaobing-qian.png
+      - name: Jielun Peng
+      - name: Yaqi Li
+      - name: Jiahui Li
+      - name: Long Kong
+      - name: Zhen Meng
+      - name: Kunhao Qiao
+
+  - title: Alumni
+    id: alumni
+    members:
+      - name: Daiyong
+        photo: daiyong.png
+      - name: Qinan Shangguan
+        photo: qinan-shangguan.png
+      - name: Yuxuan Wang
+        photo: yuxuan-wang.png
+      - name: Yupeng Wei
+        photo: yupeng-wei.png
+      - name: Hequan Wang
+        photo: hequan-wang.png
+      - name: Xizi Yifan
+        photo: xizi-yifan.png
+      - name: Diangang Li
+        photo: diangang-li.png
+        note: Co-supervised with Prof. Yihong Gong
+      - name: Wenjie Ding
+        photo: wenjie-ding.jpeg
+        note: Co-supervised with Prof. Yihong Gong
+      - name: Xiaohan Zhang
+        photo: xiaohan-zhang.jpeg
+        note: Dalian Commodity Exchange
+      - name: Yujun Wang
+        photo: yujun-wang.jpeg
+        note: ByteDance
+      - name: Jiong Li
+        note: Huawei
+      - name: Yu Liu
+        photo: yu-liu.jpeg
+        note: Amap
+      - name: Hui Lin
+        photo: hui-lin.jpeg
+        note: Xi'an Jiaotong University
+      - name: Beinan Liu
+        photo: beinan-liu.jpeg
+        note: Meitu
+      - name: Lixuan Zhang
+        photo: lixuan-zhang.jpeg
+        note: Institute of Computing Technology, Chinese Academy of Sciences
