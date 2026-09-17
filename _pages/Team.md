@@ -9,7 +9,7 @@ intro: Faculty, students, and alumni of the research team.
 ---
 
 {% for group in site.data.team.groups %}
-<section class="team-group" id="{{ group.id }}" aria-labelledby="{{ group.id }}-title">
+<section class="team-group{% if group.id == 'faculty' %} team-group--faculty{% endif %}" id="{{ group.id }}" aria-labelledby="{{ group.id }}-title">
   <div class="team-group__heading">
     <h2 id="{{ group.id }}-title">{{ group.title }}</h2>
     <span class="team-group__count">{{ group.members.size }} {% if group.members.size == 1 %}person{% else %}people{% endif %}</span>
