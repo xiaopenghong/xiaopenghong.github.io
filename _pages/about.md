@@ -9,12 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-<div class="home-hero">
+<div class="home-hero" id="biography">
   <div class="home-hero__copy">
     <span class="eyebrow">Harbin Institute of Technology · School of Computer Science and Technology</span>
     <h1>Xiaopeng Hong <span>洪晓鹏</span></h1>
     <p class="home-hero__role">Professor · PhD Supervisor</p>
-    <p class="home-hero__intro">I study how visual and multimodal systems perceive, adapt, and keep learning. My current research focuses on computer vision, multimodal learning, and continual learning.</p>
+    <p class="home-hero__intro">I am a Professor and PhD Supervisor at Harbin Institute of Technology, where I received my PhD in Computer Application and Technology in 2010. Previously, I held research positions at Xi’an Jiaotong University and the University of Oulu in Finland. I study how visual and multimodal systems perceive, adapt, and keep learning, with a focus on computer vision, multimodal learning, continual learning, visual surveillance, and subtle facial movement analysis.</p>
     <div class="hero-actions"><a class="action action--primary" href="/research/">Explore research <span aria-hidden="true">↗</span></a><a class="action action--quiet" href="/publications/">Publications <span aria-hidden="true">→</span></a></div>
     <div class="hero-links"><a href="https://homepage.hit.edu.cn/hongxiaopeng">HIT profile</a><a href="https://scholar.google.com/citations?user=x3X-qysAAAAJ&amp;hl=en">Google Scholar</a><a href="mailto:hongxiaopeng@ieee.org">Email</a></div>
   </div>
@@ -30,10 +30,8 @@ redirect_from:
   </div>
 </section>
 
-<section class="home-section home-section--split" id="biography" aria-labelledby="about-heading"><div><span class="eyebrow">02 / Biography</span><h2 id="about-heading">Research across places and disciplines</h2></div><div class="home-prose"><p>I am a professor and PhD supervisor at Harbin Institute of Technology (HIT) in Harbin, China. I received my PhD in computer application and technology from HIT in 2010.</p><p>Previously, I held research positions at Xi’an Jiaotong University and the University of Oulu in Finland. My work spans computer vision and machine learning, including continual learning, visual surveillance, and subtle facial movement analysis.</p><p>For my current institutional biography, see my <a href="https://homepage.hit.edu.cn/hongxiaopeng">HIT profile</a>. My research record is available through <a href="/publications/">publications</a>, <a href="https://scholar.google.com/citations?user=x3X-qysAAAAJ&amp;hl=en">Google Scholar</a>, and <a href="https://dblp.org/pid/06/592.html">DBLP</a>.</p></div></section>
-
 <section class="home-section" id="news" aria-labelledby="news-heading">
-  <div class="section-heading"><div><span class="eyebrow">03 / Updates</span><h2 id="news-heading">Latest news</h2></div></div>
+  <div class="section-heading"><div><span class="eyebrow">02 / Updates</span><h2 id="news-heading">Latest news</h2></div></div>
   <ol class="news-list">
     {% for item in site.data.news %}
     <li class="news-item"><time>{{ item.date }}</time><p>{{ item.text }}</p></li>
@@ -42,7 +40,7 @@ redirect_from:
 </section>
 
 <section class="home-section" id="teaching" aria-labelledby="teaching-heading">
-  <div class="section-heading"><div><span class="eyebrow">04 / Teaching</span><h2 id="teaching-heading">Selected courses</h2></div><a href="https://homepage.hit.edu.cn/hongxiaopeng">HIT profile ↗</a></div>
+  <div class="section-heading"><div><span class="eyebrow">03 / Teaching</span><h2 id="teaching-heading">Selected courses</h2></div><a href="https://homepage.hit.edu.cn/hongxiaopeng">HIT profile ↗</a></div>
   <div class="teaching-grid">
     <article class="teaching-card"><span class="teaching-card__place">Harbin Institute of Technology</span><h3>Current teaching</h3><ul><li>Computer Graphics and Virtual Reality</li><li>Formal Languages and Automata</li></ul></article>
     <article class="teaching-card"><span class="teaching-card__place">Xi’an Jiaotong University</span><h3>Previous teaching</h3><ul><li>Data Analysis, Algorithms, and Applications</li><li>Cyber-Physical Systems</li></ul></article>
@@ -50,4 +48,4 @@ redirect_from:
   </div>
 </section>
 
-<section class="home-section home-section--last" aria-labelledby="connect-heading"><div class="section-heading"><div><span class="eyebrow">05 / Connect</span><h2 id="connect-heading">Let's connect</h2></div></div><div class="connect-panel"><p>For research collaborations, academic inquiries, or prospective students, get in touch.</p><a class="action action--primary" href="/contact/">Contact information <span aria-hidden="true">↗</span></a></div></section>
+<section class="home-section home-section--last" aria-labelledby="connect-heading"><div class="section-heading"><div><span class="eyebrow">04 / Connect</span><h2 id="connect-heading">Let's connect</h2></div></div><div class="connect-panel"><p>For research collaborations, academic inquiries, or prospective students, get in touch.</p><a class="action action--primary" href="/contact/">Contact information <span aria-hidden="true">↗</span></a></div></section>
