@@ -11,19 +11,12 @@ main:
     url: /team/
  
 
-  - title: "Teaching"
-    url: /teaching/  
-
-  
   # - title: "Awards & Honors"
   #   url: /awards/
 
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
   # - title: "Portfolio"
   #   url: /portfolio/
         

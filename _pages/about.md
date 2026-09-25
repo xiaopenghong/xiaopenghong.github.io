@@ -32,4 +32,22 @@ redirect_from:
 
 <section class="home-section home-section--split" id="biography" aria-labelledby="about-heading"><div><span class="eyebrow">02 / Biography</span><h2 id="about-heading">Research across places and disciplines</h2></div><div class="home-prose"><p>I am a professor and PhD supervisor at Harbin Institute of Technology (HIT) in Harbin, China. I received my PhD in computer application and technology from HIT in 2010.</p><p>Previously, I held research positions at Xi’an Jiaotong University and the University of Oulu in Finland. My work spans computer vision and machine learning, including continual learning, visual surveillance, and subtle facial movement analysis.</p><p>For my current institutional biography, see my <a href="https://homepage.hit.edu.cn/hongxiaopeng">HIT profile</a>. My research record is available through <a href="/publications/">publications</a>, <a href="https://scholar.google.com/citations?user=x3X-qysAAAAJ&amp;hl=en">Google Scholar</a>, and <a href="https://dblp.org/pid/06/592.html">DBLP</a>.</p></div></section>
 
-<section class="home-section home-section--last" aria-labelledby="connect-heading"><div class="section-heading"><div><span class="eyebrow">03 / Connect</span><h2 id="connect-heading">Let's connect</h2></div></div><div class="connect-panel"><p>For research collaborations, academic inquiries, or prospective students, get in touch.</p><a class="action action--primary" href="/contact/">Contact information <span aria-hidden="true">↗</span></a></div></section>
+<section class="home-section" id="news" aria-labelledby="news-heading">
+  <div class="section-heading"><div><span class="eyebrow">03 / Updates</span><h2 id="news-heading">Latest news</h2></div></div>
+  <ol class="news-list">
+    {% for item in site.data.news %}
+    <li class="news-item"><time>{{ item.date }}</time><p>{{ item.text }}</p></li>
+    {% endfor %}
+  </ol>
+</section>
+
+<section class="home-section" id="teaching" aria-labelledby="teaching-heading">
+  <div class="section-heading"><div><span class="eyebrow">04 / Teaching</span><h2 id="teaching-heading">Selected courses</h2></div><a href="https://homepage.hit.edu.cn/hongxiaopeng">HIT profile ↗</a></div>
+  <div class="teaching-grid">
+    <article class="teaching-card"><span class="teaching-card__place">Harbin Institute of Technology</span><h3>Current teaching</h3><ul><li>Computer Graphics and Virtual Reality</li><li>Formal Languages and Automata</li></ul></article>
+    <article class="teaching-card"><span class="teaching-card__place">Xi’an Jiaotong University</span><h3>Previous teaching</h3><ul><li>Data Analysis, Algorithms, and Applications</li><li>Cyber-Physical Systems</li></ul></article>
+    <article class="teaching-card"><span class="teaching-card__place">University of Oulu</span><h3>Previous teaching</h3><ul><li>Deep Learning</li><li>Computer Graphics</li></ul></article>
+  </div>
+</section>
+
+<section class="home-section home-section--last" aria-labelledby="connect-heading"><div class="section-heading"><div><span class="eyebrow">05 / Connect</span><h2 id="connect-heading">Let's connect</h2></div></div><div class="connect-panel"><p>For research collaborations, academic inquiries, or prospective students, get in touch.</p><a class="action action--primary" href="/contact/">Contact information <span aria-hidden="true">↗</span></a></div></section>
