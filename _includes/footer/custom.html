@@ -1,3 +1,29 @@
 <!-- start custom footer snippets -->
 <a href="/sitemap/">Sitemap</a>
+<div class="site-visit-counter" aria-label="Total website visits">
+  Total visits: <strong id="site-visit-count" aria-live="polite">30,000+</strong>
+</div>
+<span id="busuanzi_site_pv" hidden aria-hidden="true"></span>
+<script defer src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var historicalBase = 30000;
+    var rawCounter = document.getElementById('busuanzi_site_pv');
+    var visibleCounter = document.getElementById('site-visit-count');
+    if (!rawCounter || !visibleCounter) return;
+
+    function showAdjustedCount() {
+      var liveCount = parseInt(rawCounter.textContent.replace(/[^0-9]/g, ''), 10);
+      if (!Number.isFinite(liveCount)) return;
+      visibleCounter.textContent = (historicalBase + liveCount).toLocaleString('en-US');
+    }
+
+    new MutationObserver(showAdjustedCount).observe(rawCounter, {
+      childList: true,
+      characterData: true,
+      subtree: true
+    });
+    showAdjustedCount();
+  });
+</script>
 <!-- end custom footer snippets -->

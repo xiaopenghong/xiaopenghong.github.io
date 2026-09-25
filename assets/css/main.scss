@@ -58,7 +58,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid #d99148; outline-offs
 .home-hero h1 { color: var(--ink); font-size: clamp(3.2rem, 6.2vw, 6.4rem); letter-spacing: -.065em; line-height: .98; margin: 1.25rem 0 1.4rem; }
 .home-hero h1 span { display: block; color: var(--accent); font-size: .42em; letter-spacing: .06em; margin-top: .4em; }
 .home-hero__role { color: var(--ink); font-size: 1.25rem; font-weight: 650; margin-bottom: 1.25rem; }
-.home-hero__intro { color: var(--muted); font-size: clamp(1.08rem, 1.5vw, 1.3rem); line-height: 1.65; max-width: 650px; }
+.home-hero__intro { color: var(--muted); font-size: clamp(1.08rem, 1.5vw, 1.3rem); line-height: 1.65; max-width: 650px; text-align: justify; text-justify: inter-word; hyphens: auto; }
 .hero-actions, .hero-links { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; }
 .hero-actions { margin-top: 2rem; }
 .action { display: inline-flex; justify-content: space-between; align-items: center; gap: 1.5rem; padding: .85rem 1.2rem; border-radius: 4px; font-size: .9rem; font-weight: 750; text-decoration: none !important; transition: transform .2s, background .2s; }
@@ -94,6 +94,8 @@ a:focus-visible, button:focus-visible { outline: 3px solid #d99148; outline-offs
 .teaching-card h3 { color: var(--ink); font-size: 1.3rem; letter-spacing: -.025em; margin: 1rem 0; }
 .teaching-card ul { margin: 0; padding-left: 1.15rem; }
 .teaching-card li { color: var(--muted); line-height: 1.55; margin-bottom: .55rem; }
+.site-visit-counter { margin: .35rem 0 .8rem; color: var(--muted); font-size: .72rem; }
+.site-visit-counter strong { color: inherit; font-weight: 700; font-variant-numeric: tabular-nums; }
 .connect-panel { display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem; background: #e9f3f2; border-radius: 6px; }
 .connect-panel p { margin: 0; max-width: 540px; color: var(--ink); font-size: 1.1rem; }
 .page__content h2 { border-color: var(--line); }
